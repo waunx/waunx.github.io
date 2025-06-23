@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "Xu Wan"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "waunx/xuwan.github.io"
+description              : "Xu Wan (万旭) is a fourth-year PhD student at Zhejiang University's College of Control Science and Engineering, and also serves as a visiting scholar at Peking University's College of Engineering under the supervision of Professor Mingyang Sun. During my graduate studies, I have been fortunate to work as a research intern at NetEase Fuxi AI Lab, Ele.me, and Alibaba DAMO Academy, collaborating with Dr. Yujing Hu, Dr. Shuchun Liu, and Dr. Wei Wang. Currently, I am a research intern with ByteDance's Seed-Robotic team.
+My research interests include reinforcement learning, large language models, and practical AI applications, with a particular focus on power grid scheduling. I have published several first-author papers at top international AI conferences such as ICML, AAAI, and IJCAI."
+repository               : "waunx/waunx.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
