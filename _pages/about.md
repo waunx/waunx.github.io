@@ -69,7 +69,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
   ### 2025 
   <ul>
-  <li><a href="https://kdd2025.kdd.org/datasets-and-benchmarks-track-papers-2">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong></li>
+  <li><a href="https://kdd2025.kdd.org/datasets-and-benchmarks-track-papers-2">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service, Yupeng Zhang*</a>, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong></li>
   
   <li><a href="https://arxiv.org/pdf/2506.02522">Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>ICML 2025</strong></li>
   </ul>
