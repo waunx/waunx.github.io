@@ -76,7 +76,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
   <li>Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
-  <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, Haochi Wu, <strong>Xu Wan</strong>, Quan Kong, Ruilong Deng, Mingyang Sun <strong>Under Review</strong></li>
+  <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, Haochi Wu, <strong>Xu Wan</strong>, Quan Kong, Ruilong Deng, Mingyang Sun, <strong>Under Review</strong></li>
 </ul>
 
 
@@ -122,11 +122,11 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 # 📖 Educations
 
-- *2023.09 - Present*, **Ph.D. in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
+- *2024.03 - Present*, **Ph.D. in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
   - [IDEAL Lab](https://www.ideallab-smy.com/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ)
   - Visiting student at Peking University (2024-Present)
 
-- *2021.09 - 2023.06*, **M.S. in Control Science and Engineering**, Zhejiang University, Hangzhou, China.
+- *2021.09 - 2024.03*, **M.S. in Control Science and Engineering**, Zhejiang University, Hangzhou, China.
   - [NeSC Lab](http://nesc.zju.edu.cn/#/), supervised by [Prof. Jiming Chen](https://scholar.google.com/citations?user=zK9tvo8AAAAJ)
   - GPA: 1/60, **National Scholarship**, Outstanding Graduate Student
 
