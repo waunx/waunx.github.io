@@ -134,7 +134,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 </ul>
 
 
-## Full Publications 
+<!-- ## Full Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2025</div> 
 
@@ -178,10 +178,10 @@ Lanting Zen, Mingyang Sun, **Xu Wan**, Zhenyong Zhang, Ruilong Deng, Yan Xu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div> 
 
 [Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems](https://www.ijcai.org/proceedings/2022/0549.pdf),
-**Xu Wan**, Lanting Zen, Mingyang Sun
+**Xu Wan**, Lanting Zen, Mingyang Sun -->
 
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
@@ -194,4 +194,4 @@ Lanting Zen, Mingyang Sun, **Xu Wan**, Zhenyong Zhang, Ruilong Deng, Yan Xu
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
