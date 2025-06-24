@@ -65,15 +65,81 @@ to induce more efficient thinking while maintaining the performance of reasoning
 </div>
 </div>
 
-## Full Publications 
+## Full Publications
+
+<ul class="publication-list">
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">SIGKDD 2025</span>
+<span class="paper-title">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</span>, 
+<span class="authors">Yupeng Zhang*, <span class="highlight-author">Xu Wan*</span>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou</span>
+</div>
+</li>
 
 <li class="publication-item">
-    <div class="publication-content">
-        <span class="conference-badge sigkdd">SIGKDD 2025</span>
-        <a href="#" class="paper-title">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, 
-        <span class="authors">Yupeng Zhang*, <span class="highlight-author">Xu Wan</span>, Xiangyun Kong*, Chao Yang,  Binda Ma,  Wotao Yin, Jian Zhou</span>
-    </div>
+<div class="publication-content">
+<span class="conference-badge">ICML 2025</span>
+<a href="https://arxiv.org/pdf/2506.02522" class="paper-title">Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making</a>, 
+<span class="authors"><span class="highlight-author">Xu Wan</span>, Wenyue Xu, Chao Yang, Mingyang Sun</span>
+</div>
 </li>
+
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">AAAI 2025</span>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655" class="paper-title">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, 
+<span class="authors"><span class="highlight-author">Xu Wan</span>, Wenyue Xu, Chao Yang, Mingyang Sun</span>
+</div>
+</li>
+
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">IEEE Trans. Power System</span>
+<a href="https://ieeexplore.ieee.org/abstract/document/10726595/" class="paper-title">AdapSafe2: Prior-Free Safe-Certified Reinforcement Learning for Multi-Area Frequency Control</a>, 
+<span class="authors"><span class="highlight-author">Xu Wan</span>, Mingyang Sun</span>
+</div>
+</li>
+
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">Energy Convers. Econ</span>
+<a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12086" class="paper-title">Highly Transferable Adversarial Attack Against Deep-Reinforcement-Learning-Based Frequency Control</a>, 
+<span class="authors">Zhongwei Li, Yang Liu, Peng Qiu, Hongyan Yin, <span class="highlight-author">Xu Wan</span> (Corresponding Author), Mingyang Sun</span>
+</div>
+</li>
+
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">AAAI 2023</span>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/25660" class="paper-title">AdapSafe: Adaptive and Safe-Certified Deep Reinforcement Learning-Based Frequency Control for Carbon-neutral Power Systems</a>, 
+<span class="authors"><span class="highlight-author">Xu Wan</span>, Mingyang Sun, Boli Chen, Zhongda Chu, Fei Teng</span>
+</div>
+</li>
+
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">IEEE Trans. Power System</span>
+<span class="paper-title">Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-Based SCOPF</span>, 
+<span class="authors">Lanting Zen, Mingyang Sun, <span class="highlight-author">Xu Wan</span>, Zhenyong Zhang, Ruilong Deng, Yan Xu</span>
+</div>
+</li>
+
+<li class="publication-item">
+<div class="publication-content">
+<span class="conference-badge">IJCAI 2022</span>
+<a href="https://www.ijcai.org/proceedings/2022/0549.pdf" class="paper-title">Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems</a>, 
+<span class="authors"><span class="highlight-author">Xu Wan</span>, Lanting Zen, Mingyang Sun</span>
+</div>
+</li>
+</ul>
+
+
+## Full Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2025</div> 
+
+IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service,
+Yupeng Zhang*, **Xu Wan***, Xiangyun Kong*, Chao Yang,  Binda Ma,  Wotao Yin, Jian Zhou
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div> 
