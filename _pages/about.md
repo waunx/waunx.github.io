@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-**Xu Wan (万旭)** is a second-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During his graduate studies, he has gained valuable research experience as a research intern at NetEase Fuxi AI Lab, Ele.me, and Alibaba DAMO Academy, collaborating with [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), and [Cheng Yang](https://scholar.google.com/citations?hl=en&user=5QdPzoAAAAAJ). He is currently a research intern with ByteDance's Seed-Robotic team.
+**Xu Wan (万旭)** is a second-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at NetEase Fuxi AI Lab, Ele.me, and Alibaba DAMO Academy, collaborating with [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), and [Cheng Yang](https://scholar.google.com/citations?hl=en&user=5QdPzoAAAAAJ). He is currently a research intern with ByteDance's Seed-Robotic team.
 
-His research interests encompass reinforcement learning, large language models, and large-scale AI applications, with a particular focus on power grid scheduling. He has published several first-author papers at top international AI conferences including ICML, AAAI, and IJCAI, as well as in leading journals such as IEEE Transactions on Power Systems. His work has received recognition in the academic community, as reflected in <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests encompass reinforcement learning, large language models, and large-scale AI applications, with a particular focus on power grid scheduling. I have published several first-author papers at top international AI conferences including ICML, AAAI, and IJCAI, as well as in top journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-Beyond research, he is passionate about fitness and enjoys running and strength training. You can follow his training journey on his [Strava profile](https://www.strava.com/athletes/wan_kris). He is also enthusiastic about trail running and hiking.
+Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
@@ -69,7 +69,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2025 
 <ul>
-  <li><a href="https://kdd2025.kdd.org/datasets-and-benchmarks-track-papers-2">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service, Yupeng Zhang*</a>, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong></li>
+  <li><a href="https://kdd2025.kdd.org/datasets-and-benchmarks-track-papers-2">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong></li>
   
   <li><a href="https://arxiv.org/pdf/2506.02522">Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>ICML 2025</strong></li>
 </ul>
