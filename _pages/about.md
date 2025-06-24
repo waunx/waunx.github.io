@@ -28,7 +28,9 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
 - *2024.12*: &nbsp;🎉🎉 One paper about multi-agent RL got accepted as an **oral** presentation at **AAAI 2025** (first author)!
 
-# 📝 Selected Publications 
+# 📝 Publications 
+
+## Spotlight Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +99,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 
 
-# 🎖 Selected Honors and Awards
+# 🎖 Honors and Awards
 
 - *2022.11*: **First Prize** in the 4th China Graduate Student Artificial Intelligence Innovation Competition (Huawei Cup), **Top 6 Nationally**
 - *2022.08*: **First Prize** in the 3rd National College Student Mathematical Modeling Competition (Huashu Cup), **Top 5% Nationally**
@@ -114,11 +116,11 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 - *2021.09 - 2023.06*, **M.S. in Control Science and Engineering**, Zhejiang University, Hangzhou, China.
   - [NeSC Lab](http://nesc.zju.edu.cn/#/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl)
-  - GPA: 1/60, National Scholarship, Outstanding Graduate Student
+  - GPA: 1/60, **National Scholarship**, Outstanding Graduate Student
 
 - *2017.09 - 2021.06*, **B.S. in Automation**, China University of Geosciences (Wuhan), Wuhan, China.
   - Intelligent Systems Research Institute, supervised by [Prof. Changhe Li](https://scholar.google.com/citations?user=MmLvGr0AAAAJ)
-  - GPA: 2/182, National Scholarship, Outstanding Graduate
+  - GPA: 2/182, **National Scholarship**, Outstanding Graduate
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
