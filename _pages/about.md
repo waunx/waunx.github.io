@@ -132,3 +132,66 @@ to induce more efficient thinking while maintaining the performance of reasoning
 </div>
 </li>
 </ul>
+
+
+<!-- ## Full Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2025</div> 
+
+IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service,
+Yupeng Zhang*, **Xu Wan***, Xiangyun Kong*, Chao Yang,  Binda Ma,  Wotao Yin, Jian Zhou
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div> 
+
+[Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522),
+**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div> 
+
+[SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655),
+**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Power System</div> 
+
+[AdapSafe2: Prior-Free Safe-Certified Reinforcement Learning for Multi-Area Frequency Control](https://ieeexplore.ieee.org/abstract/document/10726595/),
+**Xu Wan**, Mingyang Sun
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Energy Convers. Econ</div> 
+
+[Highly Transferable Adversarial Attack Against Deep-Reinforcement-Learning-Based Frequency Control](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12086),
+Zhongwei Li, Yang Liu, Peng Qiu, Hongyan Yin, **Xu Wan** (Corresponding Author), Mingyang Sun
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div> 
+
+[AdapSafe: Adaptive and Safe-Certified Deep Reinforcement Learning-Based Frequency Control for Carbon-neutral Power Systems](https://ojs.aaai.org/index.php/AAAI/article/view/25660),
+**Xu Wan**, Mingyang Sun, Boli Chen, Zhongda Chu, Fei Teng
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Power System</div> 
+
+[Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-Based SCOPF](https://www.ijcai.org/proceedings/2022/0549.pdf),
+Lanting Zen, Mingyang Sun, **Xu Wan**, Zhenyong Zhang, Ruilong Deng, Yan Xu
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div> 
+
+[Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems](https://www.ijcai.org/proceedings/2022/0549.pdf),
+**Xu Wan**, Lanting Zen, Mingyang Sun -->
+
+
+<!-- # 🎖 Honors and Awards
+- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 📖 Educations
+- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+# 💬 Invited Talks
+- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+# 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

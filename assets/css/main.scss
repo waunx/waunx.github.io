@@ -107,3 +107,41 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.publication-list {
+    list-style: none;
+    padding: 0;
+}
+
+.publication-item {
+    margin-bottom: 15px;
+    display: flex;
+    align-items: flex-start;
+}
+
+.publication-item::before {
+    content: "•";
+    margin-right: 8px;
+    margin-top: 2px;
+}
+
+.conference-badge {
+    display: inline-block !important;
+    padding: 2px 8px !important;
+    border-radius: 4px !important;
+    font-size: 12px !important;
+    font-weight: bold !important;
+    color: white !important;
+    margin-right: 8px !important;
+    background-color: #00369f !important;
+}
+
+.paper-title {
+    color: #1976D2;
+    text-decoration: underline;
+    font-weight: 500;
+}
+
+.highlight-author {
+    font-weight: bold;
+}
