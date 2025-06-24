@@ -111,7 +111,6 @@ to induce more efficient thinking while maintaining the performance of reasoning
 - *2023.09 - Present*, **Ph.D. in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
   - [IDEAL Lab](https://www.ideallab-smy.com/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl)
   - Visiting student at Peking University (2024-Present)
-  - GPA: 1/60, National Scholarship, Provincial Rising Star Talent Program
 
 - *2021.09 - 2023.06*, **M.S. in Control Science and Engineering**, Zhejiang University, Hangzhou, China.
   - [NeSC Lab](http://nesc.zju.edu.cn/#/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl)
