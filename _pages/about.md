@@ -30,7 +30,7 @@ Beyond research, he is passionate about fitness and enjoys running and strength 
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Framework-v11.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522)
@@ -42,7 +42,7 @@ Beyond research, he is passionate about fitness and enjoys running and strength 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/AdapThink-Framework-v6.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/AdapThink-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/pdf/2506.18237)
@@ -67,10 +67,13 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ## Full Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGKDD 2025</div> 
-
-IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service,
-Yupeng Zhang*, **Xu Wan***, Xiangyun Kong*, Chao Yang,  Binda Ma,  Wotao Yin, Jian Zhou
+<li class="publication-item">
+    <div class="publication-content">
+        <span class="conference-badge sigkdd">SIGKDD 2025</span>
+        <a href="#" class="paper-title">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, 
+        <span class="authors">Yupeng Zhang*, <span class="highlight-author">Xu Wan</span>, Xiangyun Kong*, Chao Yang,  Binda Ma,  Wotao Yin, Jian Zhou</span>
+    </div>
+</li>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div> 
