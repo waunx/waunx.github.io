@@ -78,7 +78,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2024
 <ul>
-  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025</strong></li>
+  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025 (Oral)</strong></li>
   
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10726595/">AdapSafe2: Prior-Free Safe-Certified Reinforcement Learning for Multi-Area Frequency Control</a>, <strong>Xu Wan</strong>, Mingyang Sun, <strong>IEEE Trans. Power System</strong></li>
 </ul>
