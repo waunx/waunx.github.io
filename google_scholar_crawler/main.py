@@ -5,8 +5,6 @@ from datetime import datetime
 import os
 
 
-os.environ['GOOGLE_SCHOLAR_ID']='NhsHZZwAAAAJ&hl'
-
 author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
 name = author['name']
