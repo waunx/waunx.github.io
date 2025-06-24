@@ -90,7 +90,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2022 and Prior
 <ul>
-  <li><a href="https://ieeexplore.ieee.org/abstract/document/9834132">Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-Based SCOPF, Lanting Zen, Mingyang Sun, <strong>Xu Wan</strong>, Zhenyong Zhang, Ruilong Deng, Yan Xu, <strong>IEEE Trans. Power System</strong></li>
+  <li><a href="https://ieeexplore.ieee.org/abstract/document/9834132">Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-Based SCOPF</a>, Lanting Zen, Mingyang Sun, <strong>Xu Wan</strong>, Zhenyong Zhang, Ruilong Deng, Yan Xu, <strong>IEEE Trans. Power System</strong></li>
   
   <li><a href="https://www.ijcai.org/proceedings/2022/0549.pdf">Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems</a>, <strong>Xu Wan</strong>, Lanting Zen, Mingyang Sun, <strong>IJCAI 2022</strong></li>
 </ul>
