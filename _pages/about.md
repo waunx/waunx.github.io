@@ -122,7 +122,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 # 📖 Educations
 
-- *2024.03 - Present*, **Ph.D. in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
+- *2024.03 - Present*, **Ph.D. Student in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
   - [IDEAL Lab](https://www.ideallab-smy.com/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ)
   - Visiting student at Peking University (2024-Present)
 
