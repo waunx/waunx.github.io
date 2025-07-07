@@ -37,7 +37,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 [Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522)
 
-**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun*
+**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
 
 - We propose Agents Co-Evolution (ACE), a synergistic framework between LLMs and RL agents for large-scale decision-making scenarios. 
 </div>
@@ -49,7 +49,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 [AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/pdf/2506.18237)
 
-**Xu Wan**, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun*
+**Xu Wan**, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun
 
 - We propose AdapThink, an adaptive post-training framework designed
 to induce more efficient thinking while maintaining the performance of reasoning language models.
@@ -61,13 +61,15 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 [SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655)
 
-**Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun*
+**Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
 
 - We propose a novel framework: Sequential rollout with Sequential value estimation (SrSv). This framework aims to capture agent interdependence and provide a scalable solution for cooperative MARL.
 </div>
 </div>
 
 ## Full Publications
+
+\* denotes co-first authors, \# denotes corresponding author.
 
 ### Under Review
 
@@ -97,7 +99,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2023
 <ul>
-  <li><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12086">Highly Transferable Adversarial Attack Against Deep-Reinforcement-Learning-Based Frequency Control</a>, Zhongwei Li, Yang Liu, Peng Qiu, Hongyan Yin, <strong>Xu Wan</strong> (Corresponding Author), Mingyang Sun, <strong>Energy Convers. Econ</strong></li>
+  <li><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12086">Highly Transferable Adversarial Attack Against Deep-Reinforcement-Learning-Based Frequency Control</a>, Zhongwei Li, Yang Liu, Peng Qiu, Hongyan Yin, <strong>Xu Wan #</strong>, Mingyang Sun, <strong>Energy Convers. Econ</strong></li>
   
   <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25660">AdapSafe: Adaptive and Safe-Certified Deep Reinforcement Learning-Based Frequency Control for Carbon-neutral Power Systems</a>, <strong>Xu Wan</strong>, Mingyang Sun, Boli Chen, Zhongda Chu, Fei Teng, <strong>AAAI 2023</strong></li>
 </ul>
