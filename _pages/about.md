@@ -24,6 +24,7 @@ My research interests encompass reinforcement learning, large language models, a
 Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 I was supported by the CIE-Tencent Doctoral Research Incentive Project (中国电子学会—腾讯博士生科研激励计划，全国23人，科研基金10万)
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
 - *2024.12*: &nbsp;🎉🎉 One paper about multi-agent RL got accepted as an **oral** presentation at **AAAI 2025** (first author)!
