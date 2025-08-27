@@ -86,14 +86,14 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2025 
 <ul>
-  <li><a href="https://dl.acm.org/doi/10.1145/3711896.3737381">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong></li>
+  <li><a href="https://dl.acm.org/doi/10.1145/3711896.3737381">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong><a href="https://github.com/MDrW/IVMRSuite-KDD">[Code]</a> </li>
   
-  <li><a href="https://arxiv.org/pdf/2506.02522">Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>ICML 2025</strong></li>
+  <li><a href="https://arxiv.org/pdf/2506.02522">Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>ICML 2025</strong> 
 </ul>
 
 ### 2024
 <ul>
-  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025 (Oral)</strong></li>
+  <li><a href="https://arxiv.org/abs/2503.01458">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025 (Oral)</strong><a href="https://github.com/waunx/SrSv">[Code]</a> </li>
   
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10726595/">AdapSafe2: Prior-Free Safe-Certified Reinforcement Learning for Multi-Area Frequency Control</a>, <strong>Xu Wan</strong>, Mingyang Sun, <strong>IEEE Trans. Power System</strong></li>
 </ul>
@@ -102,14 +102,14 @@ to induce more efficient thinking while maintaining the performance of reasoning
 <ul>
   <li><a href="https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/enc2.12086">Highly Transferable Adversarial Attack Against Deep-Reinforcement-Learning-Based Frequency Control</a>, Zhongwei Li, Yang Liu, Peng Qiu, Hongyan Yin, <strong>Xu Wan #</strong>, Mingyang Sun, <strong>Energy Convers. Econ</strong></li>
   
-  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25660">AdapSafe: Adaptive and Safe-Certified Deep Reinforcement Learning-Based Frequency Control for Carbon-neutral Power Systems</a>, <strong>Xu Wan</strong>, Mingyang Sun, Boli Chen, Zhongda Chu, Fei Teng, <strong>AAAI 2023</strong></li>
+  <li><a href="https://ojs.aaai.org/index.php/AAAI/article/view/25660">AdapSafe: Adaptive and Safe-Certified Deep Reinforcement Learning-Based Frequency Control for Carbon-neutral Power Systems</a>, <strong>Xu Wan</strong>, Mingyang Sun, Boli Chen, Zhongda Chu, Fei Teng, <strong>AAAI 2023</strong> <a href="https://github.com/waunx/AdapSafe">[Code]</a> </li>
 </ul>
 
 ### 2022 and Prior
 <ul>
   <li><a href="https://ieeexplore.ieee.org/abstract/document/9834132">Physics-Constrained Vulnerability Assessment of Deep Reinforcement Learning-Based SCOPF</a>, Lanting Zen, Mingyang Sun, <strong>Xu Wan</strong>, Zhenyong Zhang, Ruilong Deng, Yan Xu, <strong>IEEE Trans. Power System</strong></li>
   
-  <li><a href="https://www.ijcai.org/proceedings/2022/0549.pdf">Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems</a>, <strong>Xu Wan</strong>, Lanting Zen, Mingyang Sun, <strong>IJCAI 2022</strong></li>
+  <li><a href="https://www.ijcai.org/proceedings/2022/0549.pdf">Exploring the Vulnerability of Deep Reinforcement Learning-based Emergency Control for Low Carbon Power Systems</a>, <strong>Xu Wan</strong>, Lanting Zen, Mingyang Sun, <strong>IJCAI 2022</strong> <a href="https://github.com/waunx/RT-Attack-DB-Defense">[Code]</a> </li>
 </ul>
 
 
@@ -137,6 +137,9 @@ to induce more efficient thinking while maintaining the performance of reasoning
   - Intelligent Systems Research Institute, supervised by [Prof. Changhe Li](https://scholar.google.com/citations?user=MmLvGr0AAAAJ)
   - GPA: 2/182, **National Scholarship**, Outstanding Graduate
 
+<!-- # 🧑‍💼 Professional Services
+
+- Conference Reviewer/Program Committee: NeurIPS 2025, AAAI 2025 -->
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
