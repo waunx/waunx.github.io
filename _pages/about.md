@@ -48,7 +48,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/AdapThink-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/pdf/2506.18237)
+[AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237)
 
 **Xu Wan**, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun
 
@@ -75,7 +75,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 ### Under Review
 
 <ul>
-  <li><a href="https://arxiv.org/pdf/2506.02522">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
+  <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
   <li>Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
@@ -93,7 +93,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2024
 <ul>
-  <li><a href="https://arxiv.org/abs/2503.01458">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025 (Oral)</strong> <a href="https://github.com/waunx/SrSv">[Code]</a> </li>
+  <li><a href="https://arxiv.org/abs/2503.01458">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025 (Oral)</strong> <a href="https://github.com/waunx/SrSv">[Code]</a></li>
   
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10726595/">AdapSafe2: Prior-Free Safe-Certified Reinforcement Learning for Multi-Area Frequency Control</a>, <strong>Xu Wan</strong>, Mingyang Sun, <strong>IEEE Trans. Power System</strong></li>
 </ul>
