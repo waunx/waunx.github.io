@@ -129,7 +129,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
   - Visiting student at Peking University (2024-Present)
 
 - *2021.09 - 2024.06*, **M.S. in Control Science and Engineering**, Zhejiang University, Hangzhou, China.
-  - [NeSC Lab](http://nesc.zju.edu.cn/#/), supervised by [Prof. Jiming Chen](https://scholar.google.com/citations?user=zK9tvo8AAAAJ)
+  - [NeSC Lab](http://nesc.zju.edu.cn/#/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ) and [Prof. Jiming Chen](https://scholar.google.com/citations?user=zK9tvo8AAAAJ)
   - GPA: 1/60, **National Scholarship**, Outstanding Graduate Student
 
 - *2017.09 - 2021.06*, **B.S. in Automation**, China University of Geosciences (Wuhan), Wuhan, China.
