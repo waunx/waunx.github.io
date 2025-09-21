@@ -32,7 +32,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 # 📝 Publications 
 
-## Spotlight Publications
+## 🍾 Spotlight Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Fuz-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -80,7 +80,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 </div>
 </div>
 
-## Full Publications
+## 📖 Full Publications
 
 \* denotes co-first authors, \# denotes corresponding author.
 
@@ -134,9 +134,20 @@ to induce more efficient thinking while maintaining the performance of reasoning
 - *2022.05*: **Second Prize** in MathorCup College Student Mathematical Modeling Challenge, **Top 15% Nationally**
 - *2021.11*: **Second Prize** in the 19th China Graduate Student Mathematical Modeling Competition, **Top 15% Nationally**
 
-# 📖 Educations
 
-- *2024.03 - Present*, **Ph.D. Student in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
+# 👨‍💼 Services 
+
+- Reviewer for ICLR 2026
+
+- Reviewer for NeurIPS 2025
+
+- Reviewer for TPWRS (Transactions on Power System)
+
+- Program Committee for AAAI 2026 (Main Track and AIA track)
+
+<!-- # 📖 Educations -->
+
+<!-- - *2024.03 - Present*, **Ph.D. Student in Control Science and Engineering**, Zhejiang University, Hangzhou, China. 
   - [IDEAL Lab](https://www.ideallab-smy.com/), supervised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ)
   - Visiting student at Peking University (2024-Present)
 
@@ -146,4 +157,4 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 - *2017.09 - 2021.06*, **B.S. in Automation**, China University of Geosciences (Wuhan), Wuhan, China.
   - Intelligent Systems Research Institute, supervised by [Prof. Changhe Li](https://scholar.google.com/citations?user=MmLvGr0AAAAJ)
-  - GPA: 2/182, **National Scholarship**, Outstanding Graduate
+  - GPA: 2/182, **National Scholarship**, Outstanding Graduate -->
