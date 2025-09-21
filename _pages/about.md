@@ -42,7 +42,6 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 **Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
 
 - We propose Fuz-RL, a novel fuzzy-guided robust framework for safe RL.
-- We prove that solving the Fuz-RL problem (in Constrained Markov Decision Process (CMDP) form) is equivalent to solving distributionally robust safe RL problems (in robust CMDP form).
 </div>
 </div>
 
