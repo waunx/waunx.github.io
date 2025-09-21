@@ -19,11 +19,12 @@ redirect_from:
 
 Hi, I am **Xu Wan (万旭)**, a third-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at NetEase Fuxi AI Lab, and Alibaba DAMO Academy, collaborating with [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl). I am currently a research intern with ByteDance's Seed team.
 
-My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like ICML, KDD, and AAAI, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, KDD, and AAAI, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
@@ -32,6 +33,18 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 # 📝 Publications 
 
 ## Spotlight Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Fuz-Framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty]
+
+**Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
+
+- We propose Fuz-RL, a novel fuzzy-guided robust framework for safe RL.
+- We prove that solving the Fuz-RL problem (in Constrained Markov Decision Process (CMDP) form) is equivalent to solving distributionally robust safe RL problems (in robust CMDP form).
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -77,8 +90,6 @@ to induce more efficient thinking while maintaining the performance of reasoning
 <ul>
   <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
-  <li>Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
-
   <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, Haochi Wu, <strong>Xu Wan</strong>, Quan Kong, Ruilong Deng, Mingyang Sun, <strong>Under Review</strong></li>
 </ul>
 
@@ -86,6 +97,8 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 ### 2025 
 <ul>
+  <li>Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>NeurIPS 2025</strong></li>
+
   <li><a href="https://dl.acm.org/doi/10.1145/3711896.3737381">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong> <a href="https://github.com/MDrW/IVMRSuite-KDD">[Code]</a> </li>
   
   <li><a href="https://arxiv.org/pdf/2506.02522">Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>ICML 2025</strong></li>
