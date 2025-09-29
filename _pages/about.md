@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Xu Wan (万旭)**, a third-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at NetEase Fuxi AI Lab, and Alibaba DAMO Academy, collaborating with [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl). I am currently a research intern with ByteDance's Seed team.
+Hi, I am **Xu Wan (万旭)**, a third-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at NetEase Fuxi AI Lab, Alibaba DAMO Academy, and ByteDance Seed-Robotics Team, collaborating with [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl) and [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl). I am currently a research intern with Tecent Hunyuan team.
 
 My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, KDD, and AAAI, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
@@ -28,7 +28,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
-- *2024.12*: &nbsp;🎉🎉 One paper about multi-agent RL got accepted as an **oral** presentation at **AAAI 2025** (first author)!
+- *2024.12*: &nbsp;🎉🎉 One paper about multi-agent RL got accepted as an <span style="color:#ff6666">**oral**</span> presentation at **AAAI 2025** (first author)!
 
 # 📝 Publications 
 
