@@ -87,16 +87,18 @@ to induce more efficient thinking while maintaining the performance of reasoning
 ### Under Review
 
 <ul>
+
+  <li>Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning. <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong>Under Review</strong></li>
+
   <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
-  <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, Haochi Wu, <strong>Xu Wan</strong>, Quan Kong, Ruilong Deng, Mingyang Sun, <strong>Under Review</strong></li>
+  <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, <strong>Xu Wan</strong>, Haochi Wu, Quan Kong, Ruilong Deng, Mingyang Sun, <strong>Under Review</strong></li>
 </ul>
-
 
 
 ### 2025 
 <ul>
-  <li>Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>NeurIPS 2025</strong></li>
+  <li><a href="https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D"> Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty</a>, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>NeurIPS 2025</strong> <a href="https://github.com/waunx/FuzRL">[Code]</a></li>
 
   <li><a href="https://dl.acm.org/doi/10.1145/3711896.3737381">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong> <a href="https://github.com/MDrW/IVMRSuite-KDD">[Code]</a> </li>
   
