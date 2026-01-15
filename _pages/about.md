@@ -37,7 +37,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Fuz-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty
+[Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty](https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D)
 
 **Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
 
