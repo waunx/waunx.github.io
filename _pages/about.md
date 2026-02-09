@@ -71,6 +71,18 @@ Chao Shen, Zihan Guo, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, 
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DABA_res.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs.
+
+**Xu Wan**, SpeedZhu, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun
+
+-  DABA implements a Lambert W policy to execute strategic abandonment, sacrificing insolvent tasks to redistribute critical computational resources to solvable complex queries.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,6 +125,9 @@ Chao Shen, Zihan Guo, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, 
 ### Under Review
 
 <ul>
+
+  <li>The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs, <strong>Xu Wan*</strong>, SpeedZhu*, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun,<strong>Under Review</strong></li>
+
 
   <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, Chao Shen*, Zihan Guo*, <strong>Xu Wan*</strong>, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun, <strong>Under Review</strong></li>
 
