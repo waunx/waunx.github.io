@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Xu Wan (万旭)**, a third-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at NetEase Fuxi AI Lab, Alibaba DAMO Academy, and ByteDance Seed-Robotics Team, collaborating with [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl) and [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl). I am currently a research intern with Tecent Hunyuan team.
+Hi, I am **Xu Wan (万旭)**, a third-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a intern at ByteDance Seed Robotics Team, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, collaborating with  [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), and [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl). I am currently an intern with Tecent Hunyuan team.
 
-My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, KDD, and AAAI, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, ICLR, KDD, and AAAI, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper about LLM RL got accepted at **ICLR 2026** (first author)!
 - *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
@@ -34,25 +35,14 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 ## 🍾 Spotlight Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Fuz-Framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty](https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D)
+[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://iclr.cc/virtual/2026/poster/10009473)
 
-**Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
+**Xu Wan**, Chao Yang,  Yansheng Wang, Wenqi Huang, Mingyang Sun
 
-- We propose Fuz-RL, a novel fuzzy-guided robust framework for safe RL.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522)
-
-**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
-
-- We propose Agents Co-Evolution (ACE), a synergistic framework between LLMs and RL agents for large-scale decision-making scenarios. 
+- BAPO is an off-policy RLVR framework to improve the data efficiency in large language models post-training.
 </div>
 </div>
 
@@ -64,10 +54,46 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 **Xu Wan**, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun
 
-- We propose AdapThink, an adaptive post-training framework designed
-to induce more efficient thinking while maintaining the performance of reasoning language models.
+- AdapThink is an adaptive length penalty method for efficient thinking of reasoning language models.
 </div>
 </div>
+
+	
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/ProOPF_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070)
+
+Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
+
+- ProOPF introduces a 12K-instance dataset and a 121-case expert benchmark for evaluating and improving LLMs on professional-grade optimal power flow modeling from natural language.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522)
+
+**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
+
+- Agents Co-Evolution (ACE) is a synergistic framework between LLMs and RL agents for large-scale decision-making scenarios. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Fuz-res.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty](https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D)
+
+**Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
+
+- Fuz-RL is a novel fuzzy-guided robust framework for safe RL.
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SrSv-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,7 +102,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 **Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
 
-- We propose a novel framework: Sequential rollout with Sequential value estimation (SrSv). This framework aims to capture agent interdependence and provide a scalable solution for cooperative MARL.
+- SrSv aims to capture agent interdependence and provide a scalable solution for cooperative MARL.
 </div>
 </div>
 
@@ -88,7 +114,7 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 <ul>
 
-  <li>Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning. <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong>Under Review</strong></li>
+  <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
   <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
@@ -96,8 +122,14 @@ to induce more efficient thinking while maintaining the performance of reasoning
 </ul>
 
 
+### 2026
+<ul>
+   <li><a href="https://iclr.cc/virtual/2026/poster/10009473"> Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning</a>, <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong> ICLR 2026</strong></li>
+</ul>
+
 ### 2025 
 <ul>
+
   <li><a href="https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D"> Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty</a>, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>NeurIPS 2025</strong> <a href="https://github.com/waunx/FuzRL">[Code]</a></li>
 
   <li><a href="https://dl.acm.org/doi/10.1145/3711896.3737381">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong> <a href="https://github.com/MDrW/IVMRSuite-KDD">[Code]</a> </li>
@@ -138,6 +170,8 @@ to induce more efficient thinking while maintaining the performance of reasoning
 
 
 # 👨‍💼 Services 
+
+- Reviewer for ICML 2026
 
 - Reviewer for ICLR 2026
 
