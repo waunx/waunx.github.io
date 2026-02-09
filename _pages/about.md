@@ -64,7 +64,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 [ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070)
 
-Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
+Chao Shen, Zihan Guo, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
 
 - ProOPF introduces a 12K-instance dataset and a 121-case expert benchmark for evaluating and improving LLMs on professional-grade optimal power flow modeling from natural language.
 </div>
@@ -114,7 +114,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 <ul>
 
-  <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
+  <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, Chao Shen*, Zihan Guo*, <strong>Xu Wan*</strong>, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun, <strong>Under Review</strong></li>
 
   <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun, <strong>Under Review</strong></li>
 
