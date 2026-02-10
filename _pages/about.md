@@ -74,7 +74,7 @@ Chao Shen, Zihan Guo, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DABA_res.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs.
+The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
 
 **Xu Wan**, SpeedZhu, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun
 
