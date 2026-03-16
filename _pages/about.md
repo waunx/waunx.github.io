@@ -38,7 +38,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://iclr.cc/virtual/2026/poster/10009473)
+[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://arxiv.org/abs/2602.20722) <a href="https://github.com/waunx/FuzRL">[Code]</a>
 
 **Xu Wan**, Chao Yang,  Yansheng Wang, Wenqi Huang, Mingyang Sun
 
@@ -98,7 +98,7 @@ The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Fuz-res.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty](https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D)
+[Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty](https://arxiv.org/abs/2602.20729) <a href="https://github.com/waunx/FuzRL">[Code]</a>
 
 **Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
 
@@ -110,7 +110,7 @@ The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/SrSv-framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655)
+[SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning](https://ojs.aaai.org/index.php/AAAI/article/download/34500/36655) <a href="https://github.com/waunx/SrSv">[Code]</a>
 
 **Xu Wan**, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun
 
@@ -139,13 +139,13 @@ The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation
 
 ### 2026
 <ul>
-   <li><a href="https://iclr.cc/virtual/2026/poster/10009473"> Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning</a>, <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong> ICLR 2026</strong></li>
+   <li><a href="https://arxiv.org/abs/2602.20722"> Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning</a>, <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong> ICLR 2026</strong> <a href="https://github.com/waunx/BAPO_ICLR">[Code]</a> </li>
 </ul>
 
 ### 2025 
 <ul>
 
-  <li><a href="https://openreview.net/forum?id=SuewCbLYBS&referrer=%5BAuthor%20Console%5D"> Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty</a>, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>NeurIPS 2025</strong> <a href="https://github.com/waunx/FuzRL">[Code]</a></li>
+  <li><a href="https://arxiv.org/abs/2602.20729"> Fuz-RL: A Fuzzy-Guided Robust Framework for Safe Reinforcement Learning under Uncertainty</a>, <strong>Xu Wan</strong>, Chao Yang, Cheng Yang, Jie Song, Mingyang Sun, <strong>NeurIPS 2025</strong> <a href="https://github.com/waunx/FuzRL">[Code]</a></li>
 
   <li><a href="https://dl.acm.org/doi/10.1145/3711896.3737381">IVMR suite: An Industrial-scale Virtual Machine Rescheduling Dataset and Benchmark for Elastic Cloud Service</a>, Yupeng Zhang*, <strong>Xu Wan*</strong>, Xiangyun Kong*, Chao Yang, Binda Ma, Wotao Yin, Jian Zhou, <strong>SIGKDD 2025</strong> <a href="https://github.com/MDrW/IVMRSuite-KDD">[Code]</a> </li>
   
