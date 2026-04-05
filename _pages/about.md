@@ -40,9 +40,21 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 
 [Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://arxiv.org/abs/2602.20722) <a href="https://github.com/waunx/FuzRL">[Code]</a>
 
-**Xu Wan**, Chao Yang,  Yansheng Wang, Wenqi Huang, Mingyang Sun
+**Xu Wan**, Yansheng Wang, Wenqi Huang, Mingyang Sun
 
 - BAPO is an off-policy RLVR framework to improve the data efficiency in large language models post-training.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DABA_modelling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
+
+**Xu Wan**, SpeedZhu, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun
+
+-  DABA implements a Lambert W policy to execute strategic abandonment, sacrificing insolvent tasks to redistribute critical computational resources to solvable complex queries.
 </div>
 </div>
 
@@ -62,23 +74,11 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/ProOPF_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070)
+[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070) <a href="https://anonymous.4open.science/r/ProOPF-Benchmarking-and-Improving-LLMs-for-Professional-Grade-Power-Systems-Optimization-Modeling-249C/README.md">[Code]</a>
 
 Chao Shen, Zihan Guo, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
 
 - ProOPF introduces a 12K-instance dataset and a 121-case expert benchmark for evaluating and improving LLMs on professional-grade optimal power flow modeling from natural language.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">under review</div><img src='images/DABA_modelling.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
-
-**Xu Wan**, SpeedZhu, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun
-
--  DABA implements a Lambert W policy to execute strategic abandonment, sacrificing insolvent tasks to redistribute critical computational resources to solvable complex queries.
 </div>
 </div>
 
