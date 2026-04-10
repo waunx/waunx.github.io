@@ -24,6 +24,7 @@ My research interests include large language models (LLMs), reinforcement learni
 Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper about LLM RL got accepted at **ACL 2026**!
 - *2026.01*: &nbsp;🎉🎉 One paper about LLM RL got accepted at **ICLR 2026** (first author)!
 - *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
@@ -59,12 +60,12 @@ The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><img src='images/AdapThink-Framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL</div><img src='images/AdapThink-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237)
 
-**Xu Wan**, Wei Wang, Wenyue Xu, Wotao Yin, Jie Song, Mingyang Sun
+Wenyue Xu, **Xu Wan**, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
 
 - AdapThink is an adaptive length penalty method for efficient thinking of reasoning language models.
 </div>
