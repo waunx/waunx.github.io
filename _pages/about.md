@@ -24,9 +24,9 @@ My research interests include large language models (LLMs), reinforcement learni
 Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Three paper about LLM RL got accepted at **ICML 2026**!
-- *2026.03*: &nbsp;🎉🎉 One paper about LLM RL got accepted at **ACL 2026**!
-- *2026.01*: &nbsp;🎉🎉 One paper about LLM RL got accepted at **ICLR 2026** (first author)!
+- *2026.05*: &nbsp;🎉🎉 Three papers about LLM Token Allocation / LLM for Optimization / T2I RL post-train got accepted at **ICML 2026**!
+- *2026.03*: &nbsp;🎉🎉 One paper about Length Penalty of LLM got accepted at **ACL 2026**!
+- *2026.01*: &nbsp;🎉🎉 One paper about Off-policy LLM-RL post-train got accepted at **ICLR 2026** (first author)!
 - *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
