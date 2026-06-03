@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am **Xu Wan (万旭)**, a third-year PhD student at the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at ByteDance Seed Robotics Team, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, collaborating with  [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), and [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl). I am currently an intern with Tecent Hunyuan team.
+<!-- Hi, I am **Xu Wan (万旭)**, a PhD 毕业自 the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at Tecent Hunyuan team， ByteDance Seed Robotics Team, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, collaborating with  [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), and [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl). I am currently an intern with ByteDance Seed Robotics Team. -->
 
-My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, ICLR, KDD, and AAAI, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+Hi, I am **Xu Wan (万旭)**. I received my Ph.D. from the College of Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/) in June 2026. I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University, advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I am currently a researcher in the ByteDance Seed Team. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
+
+My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, ICLR, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
@@ -40,7 +42,7 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://arxiv.org/abs/2602.20722) <a href="https://github.com/waunx/FuzRL">[Code]</a>
+[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://arxiv.org/abs/2602.20722) <a href="https://github.com/waunx/BAPO_ICLRL">[Code]</a>
 
 **Xu Wan**, Yansheng Wang, Wenqi Huang, Mingyang Sun
 
@@ -49,14 +51,14 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/DABA_modelling.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/CLEAR_motivation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
+[The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs](https://arxiv.org/abs/2606.03092) <a href="https://github.com/waunx/CLEAR">[Code]</a>
 
 **Xu Wan**, SpeedZhu, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun
 
--  DABA implements a Lambert W policy to execute strategic abandonment, sacrificing insolvent tasks to redistribute critical computational resources to solvable complex queries.
+-  CLEAR implements a Lambert W policy to execute strategic abandonment, sacrificing insolvent tasks to redistribute critical computational resources to solvable complex queries.
 </div>
 </div>
 
@@ -64,9 +66,9 @@ The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/AdapThink-Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237)
+[AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237) <a href="https://github.com/waunx/AdapThink">[Code]</a>
 
-Wenyue Xu, **Xu Wan**, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
+Wenyue Xu*, **Xu Wan*(co-first author)**, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
 
 - AdapThink is an adaptive length penalty method for efficient thinking of reasoning language models.
 </div>
@@ -78,7 +80,7 @@ Wenyue Xu, **Xu Wan**, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang
 
 [ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070) <a href="https://anonymous.4open.science/r/ProOPF-Benchmarking-and-Improving-LLMs-for-Professional-Grade-Power-Systems-Optimization-Modeling-249C/README.md">[Code]</a>
 
-Chao Shen, Zihan Guo, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
+Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
 
 - ProOPF introduces a 12K-instance dataset and a 121-case expert benchmark for evaluating and improving LLMs on professional-grade optimal power flow modeling from natural language.
 </div>
