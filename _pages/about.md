@@ -78,7 +78,7 @@ Wenyue Xu*, **Xu Wan*(co-first author)**, Wei Wang, Wotao Yin, Wenqi Huang, Shen
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ProOPF_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070) <a href="https://anonymous.4open.science/r/ProOPF-Benchmarking-and-Improving-LLMs-for-Professional-Grade-Power-Systems-Optimization-Modeling-249C/README.md">[Code]</a>
+[ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling](https://www.arxiv.org/abs/2602.03070) <a href="https://github.com/shenchao188/ProOPF-Benchamrk-Dataset">[Code]</a>
 
 Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
 
@@ -135,13 +135,13 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 ### 2026
 <ul>
-  <li>The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs, <strong>Xu Wan*</strong>, SpeedZhu*, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun,<strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2606.03092">The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs</a>, <strong>Xu Wan*</strong>, SpeedZhu*, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun,<strong>ICML 2026</strong> <a href="https://github.com/waunx/CLEAR">[Code]</a> </li>
 
-  <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, Chao Shen*, Zihan Guo*, <strong>Xu Wan*</strong>, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun, <strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, Chao Shen*, Zihan Guo*, <strong>Xu Wan*</strong>, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun, <strong>ICML 2026</strong> <a href="https://github.com/shenchao188/ProOPF-Benchamrk-Dataset">[Code]</a> </li>
 
-  <li>Principled RL for Flow Matching Emerges From the Chunk-level Policy Optimization, Yifu Luo, Haoyuan Sun, Xinhao Hu, <strong>Xu Wan</strong>, et.al, <strong>ICML 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2510.21583">Principled RL for Flow Matching Emerges From the Chunk-level Policy Optimization</a>, Yifu Luo, Haoyuan Sun, Xinhao Hu, <strong>Xu Wan</strong>, et.al, <strong>ICML 2026</strong> <a href="https://github.com/xingzhejun/GCPO">[Code]</a> </li>
 
-  <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, Wenyue Xu, <strong>Xu Wan</strong>, Wei Wang,  Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun, <strong>ACL 2026 (Findings)</strong></li>
+  <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, Wenyue Xu, <strong>Xu Wan</strong>, Wei Wang,  Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun, <strong>ACL 2026 (Findings)</strong> <a href="https://github.com/waunx/AdapThink">[Code]</a> </li>
 
    <li><a href="https://arxiv.org/abs/2602.20722"> Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning</a>, <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong> ICLR 2026</strong> <a href="https://github.com/waunx/BAPO_ICLR">[Code]</a> </li>
 </ul>
