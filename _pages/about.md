@@ -26,7 +26,7 @@ redirect_from:
 Hi, I am **Xu Wan (万旭)**. I received my Ph.D. from the College of Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/) in June 2026. I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University, advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I am currently a researcher in the ByteDance Seed Team. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), Dr. Speed Zhu, [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
 
 <div class="opportunity-callout">
-  I am actively seeking <span class="primary-gradient-text">full-time research opportunities</span>. Please feel free to <a class="primary-gradient-text opportunity-callout__email" href="mailto:{{ site.author.email }}">reach out via email</a>.
+  I am actively seeking <span class="primary-gradient-text">academic collaborations</span>. Please feel free to <a class="primary-gradient-text opportunity-callout__email" href="mailto:{{ site.author.email }}">reach out via email</a>.
 </div>
 
 <div class="research-vision" markdown="1">
