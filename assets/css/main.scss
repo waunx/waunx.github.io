@@ -556,13 +556,15 @@ strong {
         > div {
             position: relative;
             width: 100%;
+            aspect-ratio: 12 / 5;
         }
 
         img {
             display: block;
             width: 100%;
             max-width: none;
-            height: auto;
+            height: 100%;
+            box-sizing: border-box;
             padding: 0.35rem;
             object-fit: contain;
             border: 1px solid rgba(1, 47, 99, 0.08);
