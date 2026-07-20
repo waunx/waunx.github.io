@@ -14,7 +14,7 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+$sans-serif                 : "Trebuchet MS", "Segoe UI", Helvetica, Arial, sans-serif;
 // $sans-serif                 : Georgia, serif, sans-serif;
 
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
@@ -56,18 +56,26 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
+/* Academic navy + coral palette, adapted from the visual reference. */
+$primary-color              : #012f63;
+$primary-light              : #1a4f8a;
+$primary-lighter            : #336fa1;
+$primary-dark               : #001f42;
+$accent-color               : #fe667b;
+$accent-light               : #ff8599;
+$accent-dark                : #e5475d;
+
 $body-color                 : #fff;
 $background-color           : #fff;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : $primary-color;
+$border-color               : #e2e8f0;
 
-$primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #224b8d;
+$info-color                 : $primary-light;
 // $info-color                 : #52adc8;
 
 /* brands */
@@ -94,11 +102,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
+$link-color                 : $primary-color;
+$link-color-hover           : $accent-color;
+$link-color-visited         : $primary-light;
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $accent-color;
 
 
 /*
@@ -150,8 +158,12 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 10px;
+$border-radius-large        : 14px;
+$border-radius-small        : 6px;
+$box-shadow                 : 0 4px 16px rgba(1, 47, 99, 0.08);
+$box-shadow-hover           : 0 12px 30px rgba(1, 47, 99, 0.13);
+$box-shadow-accent          : 0 6px 18px rgba(254, 102, 123, 0.18);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
-$global-transition          : all 0.2s ease-in-out;
+$global-transition          : all 0.28s cubic-bezier(0.4, 0, 0.2, 1);

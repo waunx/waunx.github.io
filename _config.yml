@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Xu Wan"
 description              : ""
+url                      : "https://waunx.github.io"
 repository               : "waunx/waunx.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +23,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xu Wan"
+  name_zh          : "万旭"
   avatar           : "images/self-profile_google.jpg"
-  bio              : "Zhejiang University"
+  position         : "Researcher · ByteDance Seed"
+  bio              : "Ph.D., Zhejiang University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 

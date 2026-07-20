@@ -17,15 +17,40 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<h1 class="section-title"><i class="fas fa-user" aria-hidden="true"></i> About Me</h1>
+
 <!-- Hi, I am **Xu Wan (万旭)**, a PhD 毕业自 the College of Control Science and Engineering, Zhejiang University, and currently serves as a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/) of Peking University under the supervision of [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my graduate studies, I have gained valuable research experience as a research intern at Tecent Hunyuan team， ByteDance Seed Robotics Team, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, collaborating with  [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), and [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl). I am currently an intern with ByteDance Seed Robotics Team. -->
+
+<div class="intro-panel" markdown="1">
 
 Hi, I am **Xu Wan (万旭)**. I received my Ph.D. from the College of Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/) in June 2026. I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University, advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I am currently a researcher in the ByteDance Seed Team. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
 
-My research interests include large language models (LLMs), reinforcement learning (RL), and large-scale AI applications, with a special focus on LLM post-training. I’ve published several first-author papers at international AI conferences like NeurIPS, ICML, ICLR, as well as in journals such as IEEE Transactions on Power Systems with google citations <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<div class="research-vision" markdown="1">
 
-Beyond research, I am passionate about fitness and enjoys running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
+<span class="research-kicker">Research vision</span>
 
-# 🔥 News
+## Learning in Constraint Spaces
+
+My research asks a central question: **how can intelligent systems learn to reason and act when computation, feedback, safety, and physical rules are limited?** I view constraints not merely as obstacles, but as useful structure for building intelligence that is more efficient, reliable, and deployable.
+
+</div>
+
+{% include research-constraint-map.html %}
+
+Together, these threads explore how limited resources and hard rules can become **design signals for better intelligence**.
+
+Across these directions, I have published first-author work at NeurIPS, ICML, and ICLR, as well as in journals such as IEEE Transactions on Power Systems. <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
+
+Beyond research, I am passionate about fitness and enjoy running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
+
+</div>
+
+<span class='anchor' id='news'></span>
+
+<h1 class="section-title"><i class="fas fa-fire" aria-hidden="true"></i> News</h1>
+
+<div class="news-list" markdown="1">
+
 - *2026.05*: &nbsp;🎉🎉 Three papers about LLM Token Allocation / LLM for Optimization / T2I RL post-train got accepted at **ICML 2026**!
 - *2026.03*: &nbsp;🎉🎉 One paper about Length Penalty of LLM got accepted at **ACL 2026**!
 - *2026.01*: &nbsp;🎉🎉 One paper about Off-policy LLM-RL post-train got accepted at **ICLR 2026** (first author)!
@@ -35,9 +60,13 @@ Beyond research, I am passionate about fitness and enjoys running and strength t
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
 - *2024.12*: &nbsp;🎉🎉 One paper about multi-agent RL got accepted as an <span style="color:#ff6666">**oral**</span> presentation at **AAAI 2025** (first author)!
 
-# 📝 Publications 
+</div>
 
-## 🍾 Spotlight Publications
+<span class='anchor' id='publications'></span>
+
+<h1 class="section-title"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</h1>
+
+## Spotlight Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -122,7 +151,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 </div>
 </div>
 
-## 📖 Full Publications
+## Full Publications
 
 \* denotes co-first authors, \# denotes corresponding author.
 
@@ -178,17 +207,29 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 </ul>
 
 
-# 🎖 Honors and Awards
+<span class='anchor' id='honors-and-awards'></span>
 
+<h1 class="section-title"><i class="fas fa-award" aria-hidden="true"></i> Honors and Awards</h1>
+
+<div class="award-list" markdown="1">
+
+- *2026.06*: **Sun Youxian Academician Scholarship (孙优贤院士奖学金)**, awarded to only **5 Ph.D. students university-wide**, with a **RMB 30,000** scholarship
 - *2022.11*: **First Prize** in the 4th China Graduate Student Artificial Intelligence Innovation Competition (Huawei Cup), **Top 6 Nationally**
-- *2022.08*: **First Prize** in the 3rd National College Student Mathematical Modeling Competition (Huashu Cup), **Top 5% Nationally**
-- *2020.04*: **First Prize** in American Mathematical Contest in Modeling (MCM), **Top 7.4% Globally**
 - *2022.10*: **Second Prize** in Baidu PaddlePaddle China University Computer Competition, **Top 8 Nationally**  
+- *2022.08*: **First Prize** in the 3rd National College Student Mathematical Modeling Competition (Huashu Cup), **Top 5% Nationally**
 - *2022.05*: **Second Prize** in MathorCup College Student Mathematical Modeling Challenge, **Top 15% Nationally**
 - *2021.11*: **Second Prize** in the 19th China Graduate Student Mathematical Modeling Competition, **Top 15% Nationally**
+- *2021.10*: **National Scholarship for Graduate Students**
+- *2020.04*: **First Prize** in American Mathematical Contest in Modeling (MCM), **Top 7.4% Globally**
+- *2019.10*: **National Scholarship for Undergraduate Students**
 
+</div>
 
-# 👨‍💼 Services 
+<span class='anchor' id='services'></span>
+
+<h1 class="section-title"><i class="fas fa-users" aria-hidden="true"></i> Services</h1>
+
+<div class="service-list" markdown="1">
 
 - Reviewer for ICML 2026
 
@@ -199,6 +240,8 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 - Reviewer for TPWRS (Transactions on Power System)
 
 - Program Committee for AAAI 2026 (Main Track and AIA track)
+
+</div>
 
 <!-- # 📖 Educations -->
 
