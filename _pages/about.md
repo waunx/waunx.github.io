@@ -23,7 +23,7 @@ redirect_from:
 
 <div class="intro-panel" markdown="1">
 
-Hi, I am **Xu Wan (万旭)**. I received my Ph.D. from the College of Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/) in June 2026. I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University, advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I am currently a researcher in the ByteDance Seed Team. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
+Hi, I am **Xu Wan (万旭)**. I received my Ph.D. from the College of Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/) in June 2026. I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University, advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I am currently a researcher in the ByteDance Seed Team. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), Dr. Speed Zhu, [Dr. Yansheng Wang](https://scholar.google.com/citations?user=h6ryv2oAAAAJ&hl), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
 
 <div class="research-vision" markdown="1">
 
@@ -31,7 +31,7 @@ Hi, I am **Xu Wan (万旭)**. I received my Ph.D. from the College of Control Sc
 
 ## Learning in Constraint Spaces
 
-My research asks a central question: **how can intelligent systems learn to reason and act when computation, feedback, safety, and physical rules are limited?** I view constraints not merely as obstacles, but as useful structure for building intelligence that is more efficient, reliable, and deployable.
+My research asks a central question: **how can intelligent systems learn to reason and act when computation, feedback, and physical rules are limited?** I view constraints not merely as obstacles, but as useful structure for building intelligence that is more efficient, reliable, and deployable.
 
 </div>
 
@@ -241,6 +241,17 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 - Program Committee for AAAI 2026 (Main Track and AIA track)
 
+</div>
+
+<span class='anchor' id='visitors'></span>
+
+<h1 class="section-title"><i class="fas fa-globe-asia" aria-hidden="true"></i> Visitors</h1>
+
+<div class="visitor-map">
+  <a href="https://info.flagcounter.com/VyP7" target="_blank" rel="noopener noreferrer" aria-label="View detailed visitor statistics by country">
+    <img src="https://s01.flagcounter.com/map/VyP7/size_s/txt_012F63/border_E2E8F0/pageviews_1/viewers_0/flags_0/" alt="Visitor map with total page views and countries" border="0">
+  </a>
+  <p>Visitors by country · total page views</p>
 </div>
 
 <!-- # 📖 Educations -->

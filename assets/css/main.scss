@@ -892,6 +892,31 @@ strong {
     }
 }
 
+.visitor-map {
+    margin: 0.35rem 0 2rem;
+    text-align: center;
+
+    a {
+        display: inline-block;
+        line-height: 0;
+    }
+
+    img {
+        display: block;
+        max-width: 100%;
+        height: auto;
+        margin: 0 auto;
+        border: 0;
+    }
+
+    p {
+        margin: 0.55rem 0 0;
+        color: #6b7280;
+        font-size: 0.78em;
+        letter-spacing: 0.02em;
+    }
+}
+
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
