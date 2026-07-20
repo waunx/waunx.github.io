@@ -357,6 +357,59 @@ strong {
     }
 }
 
+.opportunity-callout {
+    position: relative;
+    margin: 1.15rem 0 1.4rem;
+    padding: 1.25rem 1.5rem 1.2rem 2rem;
+    overflow: hidden;
+    color: $primary-color;
+    font-size: 0.98em;
+    line-height: 1.65;
+    border: 1px solid rgba(1, 47, 99, 0.08);
+    border-radius: $border-radius;
+    background: #fff;
+    box-shadow: 0 4px 15px rgba(1, 47, 99, 0.08);
+
+    &::before {
+        position: absolute;
+        top: -0.35rem;
+        left: 0.65rem;
+        color: $accent-color;
+        font-family: Georgia, serif;
+        font-size: 3.2rem;
+        font-weight: 700;
+        line-height: 1;
+        content: "\201C";
+        opacity: 0.3;
+        pointer-events: none;
+    }
+}
+
+.primary-gradient-text {
+    color: $primary-color;
+    font-weight: 700;
+}
+
+@supports ((background-clip: text) or (-webkit-background-clip: text)) {
+    .primary-gradient-text {
+        background: linear-gradient(135deg, $primary-color 0%, #1a4f8a 50%, $accent-color 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        color: transparent;
+        -webkit-text-fill-color: transparent;
+    }
+}
+
+.opportunity-callout__email {
+    text-decoration: none;
+    border-bottom: 1px solid rgba(254, 102, 123, 0.32);
+
+    &:hover,
+    &:focus {
+        border-bottom-color: $accent-color;
+    }
+}
+
 .constraint-map {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
