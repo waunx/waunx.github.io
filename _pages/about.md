@@ -218,12 +218,10 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 <div class="award-list" markdown="1">
 
 - *2026.06*: **Sun Youxian Academician Scholarship (孙优贤院士奖学金)**, awarded to only **5 Ph.D. students university-wide**, with a **RMB 30,000** scholarship
-- *2022.11*: **First Prize** in the 4th China Graduate Student Artificial Intelligence Innovation Competition (Huawei Cup), **Top 6 Nationally**
-- *2022.10*: **Second Prize** in Baidu PaddlePaddle China University Computer Competition, **Top 8 Nationally**  
+- *2022.11*: **First Prize** in the 4th China Graduate Student Artificial Intelligence Innovation Competition (Huawei Cup), **Top 6 Nationally**, with a **RMB 30,000** cash award
+- *2022.10*: **Second Prize** in Baidu PaddlePaddle China University Computer Competition, **Top 8 Nationally**, with a **RMB 10,000** cash award
+- *2022.10*: **National Scholarship for Graduate Students**
 - *2022.08*: **First Prize** in the 3rd National College Student Mathematical Modeling Competition (Huashu Cup), **Top 5% Nationally**
-- *2022.05*: **Second Prize** in MathorCup College Student Mathematical Modeling Challenge, **Top 15% Nationally**
-- *2021.11*: **Second Prize** in the 19th China Graduate Student Mathematical Modeling Competition, **Top 15% Nationally**
-- *2021.10*: **National Scholarship for Graduate Students**
 - *2020.04*: **First Prize** in American Mathematical Contest in Modeling (MCM), **Top 7.4% Globally**
 - *2019.10*: **National Scholarship for Undergraduate Students**
 
