@@ -1,0 +1,88 @@
+name: Update Strava heatmap
+
+on:
+  schedule:
+    - cron: "23 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: strava-heatmap
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out homepage source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Check required secrets
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+          STRAVA_SECRET_UPDATE_TOKEN: ${{ secrets.STRAVA_SECRET_UPDATE_TOKEN }}
+        run: |
+          if [[ -z "$STRAVA_CLIENT_ID" || -z "$STRAVA_CLIENT_SECRET" || -z "$STRAVA_REFRESH_TOKEN" ]]; then
+            echo "::error::Configure STRAVA_CLIENT_ID, STRAVA_CLIENT_SECRET, and STRAVA_REFRESH_TOKEN first."
+            exit 1
+          fi
+          if [[ -z "$STRAVA_SECRET_UPDATE_TOKEN" ]]; then
+            echo "::error::Configure STRAVA_SECRET_UPDATE_TOKEN so rotated refresh tokens can be saved safely."
+            exit 1
+          fi
+
+      - name: Fetch and aggregate activities
+        env:
+          STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
+          STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
+          STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
+          STRAVA_REFRESH_TOKEN_OUT: ${{ runner.temp }}/strava-refresh-token
+        run: |
+          python scripts/update_strava_heatmap.py \
+            --output "${RUNNER_TEMP}/strava-heatmap.json"
+
+      - name: Save rotated refresh token
+        env:
+          GH_TOKEN: ${{ secrets.STRAVA_SECRET_UPDATE_TOKEN }}
+        run: |
+          gh secret set STRAVA_REFRESH_TOKEN \
+            --repo "$GITHUB_REPOSITORY" \
+            < "${RUNNER_TEMP}/strava-refresh-token"
+
+      - name: Publish aggregate data branch
+        run: |
+          data_dir="${RUNNER_TEMP}/strava-data-branch"
+          if git ls-remote --exit-code --heads origin strava-data >/dev/null 2>&1; then
+            git fetch origin strava-data:refs/remotes/origin/strava-data
+            git worktree add -b strava-data "$data_dir" origin/strava-data
+          else
+            git worktree add --detach "$data_dir"
+            cd "$data_dir"
+            git switch --orphan strava-data
+            git rm -rf .
+          fi
+
+          cp "${RUNNER_TEMP}/strava-heatmap.json" "$data_dir/strava-heatmap.json"
+          cd "$data_dir"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add strava-heatmap.json
+
+          if git diff --cached --quiet; then
+            echo "Strava aggregate data is already current."
+            exit 0
+          fi
+
+          git commit -m "Update Strava activity summary"
+          git push origin HEAD:strava-data

@@ -47,6 +47,8 @@ Across these directions, I have published first-author work at NeurIPS, ICML, an
 
 Beyond research, I am passionate about fitness and enjoy running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
+{% include strava-heatmap.html %}
+
 </div>
 
 <span class='anchor' id='news'></span>

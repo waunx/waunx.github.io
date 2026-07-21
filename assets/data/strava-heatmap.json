@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "generated_at": null,
+  "source": "Not connected",
+  "metric": "Relative daily training load",
+  "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
+  "window": {
+    "start": null,
+    "end": null
+  },
+  "summary": {
+    "active_days": 0,
+    "activities": 0,
+    "hours": 0,
+    "distance_km": 0,
+    "elevation_m": 0
+  },
+  "days": []
+}

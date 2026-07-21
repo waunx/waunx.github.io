@@ -970,6 +970,163 @@ strong {
     }
 }
 
+.training-card {
+    margin: 1.15rem 0 0.3rem;
+    padding: 1rem 1.05rem 0.9rem;
+    overflow: hidden;
+    border: 1px solid rgba(1, 47, 99, 0.10);
+    border-radius: 12px;
+    background: linear-gradient(145deg, rgba(250, 252, 255, 0.98), rgba(246, 249, 253, 0.98));
+    box-shadow: 0 8px 22px rgba(1, 47, 99, 0.045);
+}
+
+.training-card__header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+
+    h3 {
+        margin: 0.08rem 0 0;
+        color: $primary-color;
+        font-size: 1.02em;
+        line-height: 1.25;
+    }
+
+    > a {
+        margin-top: 0.12rem;
+        color: $primary-light;
+        font-size: 0.76em;
+        font-weight: 600;
+        text-decoration: none;
+        white-space: nowrap;
+
+        &:hover {
+            color: #fc4c02;
+        }
+    }
+}
+
+.training-card__eyebrow {
+    color: #7a8798;
+    font-size: 0.68em;
+    font-weight: 700;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+}
+
+.training-card__stats {
+    display: flex;
+    margin: 0.8rem 0 0.72rem;
+    flex-wrap: wrap;
+    gap: 0.35rem 1rem;
+    color: #6b7280;
+    font-size: 0.72em;
+
+    strong {
+        color: $primary-color;
+        font-size: 1.12em;
+        font-weight: 700;
+    }
+}
+
+.training-card__scroll {
+    width: 100%;
+    padding: 0.15rem 0 0.35rem;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-color: rgba(1, 47, 99, 0.16) transparent;
+    scrollbar-width: thin;
+}
+
+.training-heatmap {
+    width: 739px;
+    min-width: 739px;
+}
+
+.training-heatmap__months {
+    display: grid;
+    grid-template-columns: repeat(53, 11px);
+    gap: 3px;
+    height: 17px;
+    color: #7a8798;
+    font-size: 9px;
+    line-height: 1;
+
+    span {
+        overflow: visible;
+        white-space: nowrap;
+    }
+}
+
+.training-heatmap__body {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: repeat(7, 11px);
+    grid-template-columns: repeat(53, 11px);
+    gap: 3px;
+}
+
+.training-heatmap__cell,
+.training-card__legend i {
+    display: block;
+    width: 11px;
+    height: 11px;
+    border: 1px solid rgba(1, 47, 99, 0.035);
+    border-radius: 3px;
+    background: #e9eef4;
+}
+
+.training-heatmap__cell {
+    &[data-level="1"] { background: #d5efc4; }
+    &[data-level="2"] { background: #9bd879; }
+    &[data-level="3"] { background: #55ad4c; }
+    &[data-level="4"] { background: #1d7837; }
+    &[data-level="future"] {
+        border-color: transparent;
+        background: transparent;
+    }
+}
+
+.training-card__footer {
+    display: flex;
+    margin-top: 0.45rem;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    color: #7a8798;
+    font-size: 0.66em;
+}
+
+.training-card__legend {
+    display: inline-flex;
+    align-items: center;
+    gap: 3px;
+    white-space: nowrap;
+
+    i[data-level="1"] { background: #d5efc4; }
+    i[data-level="2"] { background: #9bd879; }
+    i[data-level="3"] { background: #55ad4c; }
+    i[data-level="4"] { background: #1d7837; }
+}
+
+@media (max-width: 600px) {
+    .training-card {
+        margin-right: -0.2rem;
+        margin-left: -0.2rem;
+        padding: 0.9rem 0.85rem 0.8rem;
+    }
+
+    .training-card__stats {
+        gap: 0.3rem 0.75rem;
+    }
+
+    .training-card__footer {
+        align-items: flex-start;
+        flex-direction: column;
+    }
+}
+
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
