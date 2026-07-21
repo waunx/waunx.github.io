@@ -96,10 +96,21 @@
     if (node) node.textContent = value;
   }
 
+  function activityTypeCount(payload, name) {
+    var summaryTypes = (payload.summary || {}).activity_types || {};
+    if (Number.isFinite(Number(summaryTypes[name]))) return Number(summaryTypes[name]);
+
+    return (payload.days || []).reduce(function (total, day) {
+      return total + Number((day.types || {})[name] || 0);
+    }, 0);
+  }
+
   function render(card, payload) {
     var summary = payload.summary || {};
     setStat(card, "active-days", formatNumber(summary.active_days));
     setStat(card, "activities", formatNumber(summary.activities));
+    setStat(card, "running", formatNumber(activityTypeCount(payload, "Running")));
+    setStat(card, "strength", formatNumber(activityTypeCount(payload, "Strength")));
     setStat(card, "hours", formatNumber(summary.hours, 1));
     setStat(card, "distance", formatNumber(summary.distance_km, 1));
     renderGrid(card, payload);

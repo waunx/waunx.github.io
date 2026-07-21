@@ -299,6 +299,10 @@ def _build_payload(
         )
 
     total_minutes = sum(item["minutes"] for item in daily.values())
+    activity_types: Counter[str] = Counter()
+    for item in daily.values():
+        activity_types.update(item["types"])
+
     return {
         "schema_version": 1,
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
@@ -312,6 +316,7 @@ def _build_payload(
             "hours": round(total_minutes / 60, 1),
             "distance_km": round(sum(item["distance_km"] for item in daily.values()), 1),
             "elevation_m": round(sum(item["elevation_m"] for item in daily.values())),
+            "activity_types": dict(sorted(activity_types.items())),
         },
         "days": days,
     }

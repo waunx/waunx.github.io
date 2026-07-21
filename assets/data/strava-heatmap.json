@@ -13,7 +13,8 @@
     "activities": 0,
     "hours": 0,
     "distance_km": 0,
-    "elevation_m": 0
+    "elevation_m": 0,
+    "activity_types": {}
   },
   "days": []
 }
