@@ -257,7 +257,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
   <a href="https://info.flagcounter.com/VyP7" target="_blank" rel="noopener noreferrer" aria-label="View detailed visitor statistics by country">
     <img src="https://s01.flagcounter.com/map/VyP7/size_s/txt_012F63/border_E2E8F0/pageviews_1/viewers_0/flags_0/" alt="Visitor map with total page views and countries" border="0">
   </a>
-  <p>Visitors by country · total page views</p>
+  <p>Visitors by country · total page views · since July 20, 2026</p>
 </div>
 
 <!-- # 📖 Educations -->
