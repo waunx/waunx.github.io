@@ -70,7 +70,7 @@ jobs:
             git worktree add --detach "$data_dir"
             cd "$data_dir"
             git switch --orphan strava-data
-            git rm -rf .
+            git rm -rf --ignore-unmatch .
           fi
 
           cp "${RUNNER_TEMP}/strava-heatmap.json" "$data_dir/strava-heatmap.json"
