@@ -1,0 +1,4155 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-21T14:06:33+00:00",
+  "source": "Strava API",
+  "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
+  "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
+  "window": {
+    "start": "2025-07-16",
+    "end": "2026-07-21"
+  },
+  "summary": {
+    "active_days": 328,
+    "activities": 572,
+    "hours": 358.8,
+    "distance_km": 1864.6,
+    "elevation_m": 5279
+  },
+  "days": [
+    {
+      "date": "2025-07-16",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 8.0,
+      "elevation_m": 13,
+      "load": 66.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-17",
+      "activities": 2,
+      "minutes": 66,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 31.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-18",
+      "activities": 2,
+      "minutes": 94,
+      "distance_km": 7.5,
+      "elevation_m": 15,
+      "load": 61.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-19",
+      "activities": 2,
+      "minutes": 35,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 3.0,
+      "level": 1,
+      "types": {
+        "Strength": 2
+      }
+    },
+    {
+      "date": "2025-07-20",
+      "activities": 1,
+      "minutes": 34,
+      "distance_km": 7.4,
+      "elevation_m": 5,
+      "load": 64.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-07-21",
+      "activities": 3,
+      "minutes": 67,
+      "distance_km": 7.7,
+      "elevation_m": 5,
+      "load": 81.0,
+      "level": 3,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-22",
+      "activities": 3,
+      "minutes": 86,
+      "distance_km": 6.2,
+      "elevation_m": 16,
+      "load": 41.2,
+      "level": 2,
+      "types": {
+        "Cycling": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-23",
+      "activities": 2,
+      "minutes": 96,
+      "distance_km": 10.3,
+      "elevation_m": 16,
+      "load": 81.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-24",
+      "activities": 2,
+      "minutes": 71,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Strength": 2
+      }
+    },
+    {
+      "date": "2025-07-25",
+      "activities": 1,
+      "minutes": 38,
+      "distance_km": 7.1,
+      "elevation_m": 15,
+      "load": 35.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-07-26",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.1,
+      "elevation_m": 17,
+      "load": 49.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-07-27",
+      "activities": 2,
+      "minutes": 48,
+      "distance_km": 8.8,
+      "elevation_m": 115,
+      "load": 85.0,
+      "level": 4,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-07-28",
+      "activities": 1,
+      "minutes": 45,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-29",
+      "activities": 2,
+      "minutes": 96,
+      "distance_km": 11.0,
+      "elevation_m": 27,
+      "load": 117.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-30",
+      "activities": 2,
+      "minutes": 82,
+      "distance_km": 8.3,
+      "elevation_m": 18,
+      "load": 70.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-07-31",
+      "activities": 4,
+      "minutes": 36,
+      "distance_km": 7.0,
+      "elevation_m": 12,
+      "load": 56.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 2,
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-08-01",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 7.6,
+      "elevation_m": 15,
+      "load": 44.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-02",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 3.6,
+      "elevation_m": 7,
+      "load": 15.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-03",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 7.2,
+      "elevation_m": 19,
+      "load": 33.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-04",
+      "activities": 2,
+      "minutes": 79,
+      "distance_km": 7.4,
+      "elevation_m": 15,
+      "load": 64.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-05",
+      "activities": 2,
+      "minutes": 55,
+      "distance_km": 3.1,
+      "elevation_m": 0,
+      "load": 16.0,
+      "level": 1,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-06",
+      "activities": 2,
+      "minutes": 92,
+      "distance_km": 10.3,
+      "elevation_m": 23,
+      "load": 101.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-07",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 7.1,
+      "elevation_m": 16,
+      "load": 44.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-08",
+      "activities": 5,
+      "minutes": 110,
+      "distance_km": 8.2,
+      "elevation_m": 75,
+      "load": 31.5,
+      "level": 2,
+      "types": {
+        "Hiking & Walking": 2,
+        "Running": 1,
+        "Strength": 2
+      }
+    },
+    {
+      "date": "2025-08-09",
+      "activities": 1,
+      "minutes": 54,
+      "distance_km": 10.3,
+      "elevation_m": 33,
+      "load": 44.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-10",
+      "activities": 1,
+      "minutes": 33,
+      "distance_km": 7.0,
+      "elevation_m": 2,
+      "load": 61.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-11",
+      "activities": 1,
+      "minutes": 38,
+      "distance_km": 7.1,
+      "elevation_m": 15,
+      "load": 52.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-12",
+      "activities": 3,
+      "minutes": 86,
+      "distance_km": 8.7,
+      "elevation_m": 25,
+      "load": 75.5,
+      "level": 3,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-13",
+      "activities": 2,
+      "minutes": 69,
+      "distance_km": 5.3,
+      "elevation_m": 13,
+      "load": 24.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-14",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 12,
+      "load": 51.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-15",
+      "activities": 1,
+      "minutes": 53,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-16",
+      "activities": 1,
+      "minutes": 21,
+      "distance_km": 3.7,
+      "elevation_m": 9,
+      "load": 16.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-17",
+      "activities": 2,
+      "minutes": 71,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 30.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-18",
+      "activities": 2,
+      "minutes": 75,
+      "distance_km": 7.1,
+      "elevation_m": 0,
+      "load": 57.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-19",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 7.4,
+      "elevation_m": 0,
+      "load": 57.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-20",
+      "activities": 1,
+      "minutes": 33,
+      "distance_km": 7.2,
+      "elevation_m": 0,
+      "load": 37.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-21",
+      "activities": 2,
+      "minutes": 69,
+      "distance_km": 5.3,
+      "elevation_m": 18,
+      "load": 27.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-22",
+      "activities": 2,
+      "minutes": 91,
+      "distance_km": 7.0,
+      "elevation_m": 20,
+      "load": 57.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-24",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 7.1,
+      "elevation_m": 33,
+      "load": 32.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-25",
+      "activities": 2,
+      "minutes": 80,
+      "distance_km": 7.0,
+      "elevation_m": 19,
+      "load": 62.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-26",
+      "activities": 2,
+      "minutes": 77,
+      "distance_km": 7.5,
+      "elevation_m": 0,
+      "load": 54.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-27",
+      "activities": 3,
+      "minutes": 163,
+      "distance_km": 7.2,
+      "elevation_m": 0,
+      "load": 40.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 2
+      }
+    },
+    {
+      "date": "2025-08-28",
+      "activities": 1,
+      "minutes": 33,
+      "distance_km": 7.1,
+      "elevation_m": 0,
+      "load": 53.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-29",
+      "activities": 1,
+      "minutes": 43,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-08-30",
+      "activities": 1,
+      "minutes": 39,
+      "distance_km": 7.1,
+      "elevation_m": 40,
+      "load": 23.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-08-31",
+      "activities": 1,
+      "minutes": 36,
+      "distance_km": 7.1,
+      "elevation_m": 20,
+      "load": 60.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-01",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 7.1,
+      "elevation_m": 19,
+      "load": 54.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-02",
+      "activities": 2,
+      "minutes": 77,
+      "distance_km": 7.1,
+      "elevation_m": 0,
+      "load": 42.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-03",
+      "activities": 3,
+      "minutes": 82,
+      "distance_km": 9.4,
+      "elevation_m": 55,
+      "load": 47.9,
+      "level": 2,
+      "types": {
+        "Cycling": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-04",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 7.1,
+      "elevation_m": 18,
+      "load": 22.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-05",
+      "activities": 1,
+      "minutes": 54,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 10.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-06",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 7.1,
+      "elevation_m": 23,
+      "load": 54.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-07",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 8.9,
+      "elevation_m": 75,
+      "load": 22.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-08",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 115.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-09",
+      "activities": 3,
+      "minutes": 82,
+      "distance_km": 8.4,
+      "elevation_m": 5,
+      "load": 48.0,
+      "level": 2,
+      "types": {
+        "Cycling": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-10",
+      "activities": 2,
+      "minutes": 84,
+      "distance_km": 7.1,
+      "elevation_m": 16,
+      "load": 36.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-11",
+      "activities": 3,
+      "minutes": 63,
+      "distance_km": 13.0,
+      "elevation_m": 33,
+      "load": 57.0,
+      "level": 3,
+      "types": {
+        "Cycling": 2,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-12",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-13",
+      "activities": 1,
+      "minutes": 53,
+      "distance_km": 10.3,
+      "elevation_m": 21,
+      "load": 85.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-14",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 7.0,
+      "elevation_m": 18,
+      "load": 61.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-15",
+      "activities": 2,
+      "minutes": 82,
+      "distance_km": 7.1,
+      "elevation_m": 18,
+      "load": 58.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-16",
+      "activities": 2,
+      "minutes": 79,
+      "distance_km": 7.1,
+      "elevation_m": 17,
+      "load": 30.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-17",
+      "activities": 2,
+      "minutes": 61,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 37.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-18",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 21,
+      "load": 61.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-19",
+      "activities": 1,
+      "minutes": 3,
+      "distance_km": 1.3,
+      "elevation_m": 0,
+      "load": 2.3,
+      "level": 1,
+      "types": {
+        "Cycling": 1
+      }
+    },
+    {
+      "date": "2025-09-21",
+      "activities": 1,
+      "minutes": 57,
+      "distance_km": 10.9,
+      "elevation_m": 47,
+      "load": 51.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-22",
+      "activities": 1,
+      "minutes": 47,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-23",
+      "activities": 2,
+      "minutes": 96,
+      "distance_km": 10.3,
+      "elevation_m": 30,
+      "load": 105.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-24",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 7.0,
+      "elevation_m": 48,
+      "load": 53.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-25",
+      "activities": 2,
+      "minutes": 83,
+      "distance_km": 7.0,
+      "elevation_m": 19,
+      "load": 28.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-26",
+      "activities": 1,
+      "minutes": 27,
+      "distance_km": 5.3,
+      "elevation_m": 18,
+      "load": 21.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-27",
+      "activities": 1,
+      "minutes": 29,
+      "distance_km": 5.3,
+      "elevation_m": 14,
+      "load": 42.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-09-28",
+      "activities": 2,
+      "minutes": 85,
+      "distance_km": 7.0,
+      "elevation_m": 20,
+      "load": 35.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-29",
+      "activities": 2,
+      "minutes": 85,
+      "distance_km": 7.1,
+      "elevation_m": 31,
+      "load": 29.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-09-30",
+      "activities": 1,
+      "minutes": 44,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-01",
+      "activities": 1,
+      "minutes": 91,
+      "distance_km": 17.2,
+      "elevation_m": 52,
+      "load": 151.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-03",
+      "activities": 1,
+      "minutes": 18,
+      "distance_km": 3.2,
+      "elevation_m": 22,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-04",
+      "activities": 1,
+      "minutes": 43,
+      "distance_km": 7.0,
+      "elevation_m": 36,
+      "load": 29.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-07",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 7.0,
+      "elevation_m": 20,
+      "load": 49.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-09",
+      "activities": 1,
+      "minutes": 38,
+      "distance_km": 7.1,
+      "elevation_m": 17,
+      "load": 58.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-10",
+      "activities": 1,
+      "minutes": 11,
+      "distance_km": 1.2,
+      "elevation_m": 4,
+      "load": 1.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-10-11",
+      "activities": 2,
+      "minutes": 45,
+      "distance_km": 8.5,
+      "elevation_m": 73,
+      "load": 56.0,
+      "level": 3,
+      "types": {
+        "Cycling": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-12",
+      "activities": 1,
+      "minutes": 36,
+      "distance_km": 7.2,
+      "elevation_m": 18,
+      "load": 53.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-13",
+      "activities": 2,
+      "minutes": 83,
+      "distance_km": 7.3,
+      "elevation_m": 15,
+      "load": 86.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-14",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.3,
+      "elevation_m": 20,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-16",
+      "activities": 4,
+      "minutes": 84,
+      "distance_km": 9.9,
+      "elevation_m": 44,
+      "load": 139.6,
+      "level": 4,
+      "types": {
+        "Cycling": 2,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-17",
+      "activities": 2,
+      "minutes": 85,
+      "distance_km": 7.0,
+      "elevation_m": 21,
+      "load": 104.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-18",
+      "activities": 1,
+      "minutes": 14,
+      "distance_km": 1.2,
+      "elevation_m": 0,
+      "load": 2.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-10-21",
+      "activities": 1,
+      "minutes": 47,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-22",
+      "activities": 1,
+      "minutes": 42,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-24",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.3,
+      "elevation_m": 18,
+      "load": 71.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-10-26",
+      "activities": 1,
+      "minutes": 33,
+      "distance_km": 2.3,
+      "elevation_m": 48,
+      "load": 3.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-10-28",
+      "activities": 1,
+      "minutes": 45,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 13.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-29",
+      "activities": 2,
+      "minutes": 85,
+      "distance_km": 7.0,
+      "elevation_m": 12,
+      "load": 78.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-30",
+      "activities": 3,
+      "minutes": 115,
+      "distance_km": 14.3,
+      "elevation_m": 30,
+      "load": 241.0,
+      "level": 4,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-10-31",
+      "activities": 2,
+      "minutes": 83,
+      "distance_km": 7.1,
+      "elevation_m": 15,
+      "load": 58.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-01",
+      "activities": 1,
+      "minutes": 31,
+      "distance_km": 5.3,
+      "elevation_m": 15,
+      "load": 83.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-11-02",
+      "activities": 2,
+      "minutes": 41,
+      "distance_km": 6.6,
+      "elevation_m": 32,
+      "load": 42.0,
+      "level": 2,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-11-03",
+      "activities": 1,
+      "minutes": 156,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 20.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-04",
+      "activities": 2,
+      "minutes": 87,
+      "distance_km": 7.0,
+      "elevation_m": 14,
+      "load": 103.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-05",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 14.0,
+      "elevation_m": 39,
+      "load": 165.0,
+      "level": 4,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-11-06",
+      "activities": 1,
+      "minutes": 64,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 9.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-07",
+      "activities": 2,
+      "minutes": 89,
+      "distance_km": 7.0,
+      "elevation_m": 15,
+      "load": 129.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-08",
+      "activities": 1,
+      "minutes": 56,
+      "distance_km": 10.3,
+      "elevation_m": 34,
+      "load": 95.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-11-09",
+      "activities": 2,
+      "minutes": 106,
+      "distance_km": 22.0,
+      "elevation_m": 165,
+      "load": 150.6,
+      "level": 4,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-11-10",
+      "activities": 1,
+      "minutes": 47,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-11",
+      "activities": 2,
+      "minutes": 87,
+      "distance_km": 2.0,
+      "elevation_m": 53,
+      "load": 9.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-12",
+      "activities": 2,
+      "minutes": 83,
+      "distance_km": 7.0,
+      "elevation_m": 17,
+      "load": 151.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-13",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 7.0,
+      "elevation_m": 16,
+      "load": 155.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-11-14",
+      "activities": 3,
+      "minutes": 121,
+      "distance_km": 12.3,
+      "elevation_m": 26,
+      "load": 232.0,
+      "level": 4,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-16",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 13.8,
+      "elevation_m": 16,
+      "load": 161.0,
+      "level": 4,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-11-17",
+      "activities": 1,
+      "minutes": 47,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-18",
+      "activities": 2,
+      "minutes": 72,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 27.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-19",
+      "activities": 1,
+      "minutes": 34,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 68.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-11-21",
+      "activities": 3,
+      "minutes": 58,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 35.0,
+      "level": 2,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-11-22",
+      "activities": 1,
+      "minutes": 45,
+      "distance_km": 2.8,
+      "elevation_m": 55,
+      "load": 3.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-11-23",
+      "activities": 1,
+      "minutes": 93,
+      "distance_km": 6.0,
+      "elevation_m": 74,
+      "load": 9.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-11-24",
+      "activities": 2,
+      "minutes": 12,
+      "distance_km": 3.7,
+      "elevation_m": 11,
+      "load": 8.3,
+      "level": 1,
+      "types": {
+        "Cycling": 2
+      }
+    },
+    {
+      "date": "2025-11-26",
+      "activities": 1,
+      "minutes": 22,
+      "distance_km": 1.2,
+      "elevation_m": 0,
+      "load": 2.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-11-28",
+      "activities": 1,
+      "minutes": 18,
+      "distance_km": 1.6,
+      "elevation_m": 13,
+      "load": 2.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-11-29",
+      "activities": 1,
+      "minutes": 23,
+      "distance_km": 1.7,
+      "elevation_m": 10,
+      "load": 2.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2025-12-01",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 63.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-02",
+      "activities": 3,
+      "minutes": 78,
+      "distance_km": 7.5,
+      "elevation_m": 0,
+      "load": 48.0,
+      "level": 2,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-03",
+      "activities": 2,
+      "minutes": 69,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 75.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-05",
+      "activities": 3,
+      "minutes": 68,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 66.0,
+      "level": 3,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-06",
+      "activities": 1,
+      "minutes": 29,
+      "distance_km": 6.0,
+      "elevation_m": 0,
+      "load": 73.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-12-07",
+      "activities": 1,
+      "minutes": 49,
+      "distance_km": 10.0,
+      "elevation_m": 0,
+      "load": 91.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-12-08",
+      "activities": 1,
+      "minutes": 42,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-09",
+      "activities": 3,
+      "minutes": 81,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 46.0,
+      "level": 2,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-10",
+      "activities": 2,
+      "minutes": 62,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 62.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-11",
+      "activities": 2,
+      "minutes": 58,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 94.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-12",
+      "activities": 4,
+      "minutes": 70,
+      "distance_km": 5.5,
+      "elevation_m": 0,
+      "load": 67.2,
+      "level": 3,
+      "types": {
+        "Running": 3,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-13",
+      "activities": 4,
+      "minutes": 109,
+      "distance_km": 5.6,
+      "elevation_m": 82,
+      "load": 13.0,
+      "level": 1,
+      "types": {
+        "Running": 3,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-14",
+      "activities": 3,
+      "minutes": 89,
+      "distance_km": 11.6,
+      "elevation_m": 150,
+      "load": 102.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 2
+      }
+    },
+    {
+      "date": "2025-12-15",
+      "activities": 2,
+      "minutes": 68,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 72.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-16",
+      "activities": 2,
+      "minutes": 71,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 44.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-17",
+      "activities": 2,
+      "minutes": 79,
+      "distance_km": 2.1,
+      "elevation_m": 0,
+      "load": 10.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-18",
+      "activities": 3,
+      "minutes": 81,
+      "distance_km": 7.9,
+      "elevation_m": 0,
+      "load": 86.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-19",
+      "activities": 1,
+      "minutes": 54,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 10.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-20",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 15,
+      "load": 106.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-12-21",
+      "activities": 2,
+      "minutes": 84,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 65.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-22",
+      "activities": 3,
+      "minutes": 99,
+      "distance_km": 7.2,
+      "elevation_m": 0,
+      "load": 66.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-23",
+      "activities": 3,
+      "minutes": 74,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 83.0,
+      "level": 4,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-25",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-26",
+      "activities": 2,
+      "minutes": 74,
+      "distance_km": 1.3,
+      "elevation_m": 0,
+      "load": 11.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-27",
+      "activities": 1,
+      "minutes": 54,
+      "distance_km": 10.3,
+      "elevation_m": 19,
+      "load": 124.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-12-28",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 7.6,
+      "elevation_m": 18,
+      "load": 83.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2025-12-29",
+      "activities": 2,
+      "minutes": 60,
+      "distance_km": 3.0,
+      "elevation_m": 0,
+      "load": 26.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-30",
+      "activities": 2,
+      "minutes": 55,
+      "distance_km": 3.0,
+      "elevation_m": 0,
+      "load": 21.0,
+      "level": 1,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2025-12-31",
+      "activities": 2,
+      "minutes": 58,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 44.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-01",
+      "activities": 1,
+      "minutes": 1503,
+      "distance_km": 6.0,
+      "elevation_m": 0,
+      "load": 90.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-01-03",
+      "activities": 1,
+      "minutes": 39,
+      "distance_km": 7.1,
+      "elevation_m": 24,
+      "load": 72.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-04",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 104.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-05",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 59.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-06",
+      "activities": 2,
+      "minutes": 73,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 99.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-07",
+      "activities": 1,
+      "minutes": 49,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 12.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-08",
+      "activities": 1,
+      "minutes": 32,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 60.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-09",
+      "activities": 1,
+      "minutes": 22,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 3.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-10",
+      "activities": 1,
+      "minutes": 46,
+      "distance_km": 10.3,
+      "elevation_m": 0,
+      "load": 177.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-11",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 7.5,
+      "elevation_m": 0,
+      "load": 129.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-12",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 35.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-13",
+      "activities": 3,
+      "minutes": 74,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 52.0,
+      "level": 3,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-14",
+      "activities": 2,
+      "minutes": 60,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 37.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-15",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 60.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-16",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-17",
+      "activities": 3,
+      "minutes": 126,
+      "distance_km": 14.2,
+      "elevation_m": 174,
+      "load": 157.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 2
+      }
+    },
+    {
+      "date": "2026-01-18",
+      "activities": 3,
+      "minutes": 59,
+      "distance_km": 10.3,
+      "elevation_m": 21,
+      "load": 99.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 2,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-19",
+      "activities": 3,
+      "minutes": 70,
+      "distance_km": 5.8,
+      "elevation_m": 0,
+      "load": 60.8,
+      "level": 3,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-20",
+      "activities": 2,
+      "minutes": 66,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 45.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-21",
+      "activities": 1,
+      "minutes": 42,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 9.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-22",
+      "activities": 2,
+      "minutes": 73,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 64.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-23",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 34.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-24",
+      "activities": 1,
+      "minutes": 38,
+      "distance_km": 7.2,
+      "elevation_m": 15,
+      "load": 138.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-25",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 7.6,
+      "elevation_m": 17,
+      "load": 115.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-26",
+      "activities": 2,
+      "minutes": 68,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 37.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-27",
+      "activities": 2,
+      "minutes": 73,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 39.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-28",
+      "activities": 1,
+      "minutes": 26,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 20.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-01-29",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 4.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-30",
+      "activities": 2,
+      "minutes": 64,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 42.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-01-31",
+      "activities": 1,
+      "minutes": 38,
+      "distance_km": 7.0,
+      "elevation_m": 19,
+      "load": 65.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-01",
+      "activities": 2,
+      "minutes": 49,
+      "distance_km": 8.6,
+      "elevation_m": 22,
+      "load": 69.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-02",
+      "activities": 3,
+      "minutes": 75,
+      "distance_km": 6.4,
+      "elevation_m": 0,
+      "load": 36.0,
+      "level": 2,
+      "types": {
+        "Cycling": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-03",
+      "activities": 3,
+      "minutes": 68,
+      "distance_km": 5.0,
+      "elevation_m": 0,
+      "load": 30.0,
+      "level": 2,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-04",
+      "activities": 3,
+      "minutes": 85,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 73.0,
+      "level": 3,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-05",
+      "activities": 1,
+      "minutes": 31,
+      "distance_km": 2.3,
+      "elevation_m": 33,
+      "load": 3.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-02-06",
+      "activities": 1,
+      "minutes": 31,
+      "distance_km": 6.3,
+      "elevation_m": 0,
+      "load": 65.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-07",
+      "activities": 2,
+      "minutes": 64,
+      "distance_km": 9.2,
+      "elevation_m": 31,
+      "load": 51.0,
+      "level": 2,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-08",
+      "activities": 1,
+      "minutes": 27,
+      "distance_km": 5.1,
+      "elevation_m": 4,
+      "load": 94.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "activities": 1,
+      "minutes": 29,
+      "distance_km": 5.3,
+      "elevation_m": 3,
+      "load": 104.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "activities": 2,
+      "minutes": 62,
+      "distance_km": 1.1,
+      "elevation_m": 2,
+      "load": 15.6,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "activities": 2,
+      "minutes": 84,
+      "distance_km": 6.1,
+      "elevation_m": 0,
+      "load": 84.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 3.3,
+      "elevation_m": 22,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-02-13",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 5.1,
+      "elevation_m": 0,
+      "load": 51.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-14",
+      "activities": 2,
+      "minutes": 64,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 49.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-15",
+      "activities": 2,
+      "minutes": 67,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 55.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "activities": 2,
+      "minutes": 58,
+      "distance_km": 1.7,
+      "elevation_m": 17,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-18",
+      "activities": 4,
+      "minutes": 92,
+      "distance_km": 7.1,
+      "elevation_m": 10,
+      "load": 52.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 2,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-19",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 2.4,
+      "elevation_m": 32,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-02-20",
+      "activities": 1,
+      "minutes": 6,
+      "distance_km": 1.8,
+      "elevation_m": 15,
+      "load": 4.6,
+      "level": 1,
+      "types": {
+        "Cycling": 1
+      }
+    },
+    {
+      "date": "2026-02-21",
+      "activities": 4,
+      "minutes": 104,
+      "distance_km": 6.8,
+      "elevation_m": 60,
+      "load": 48.0,
+      "level": 2,
+      "types": {
+        "Hiking & Walking": 2,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-22",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 2.9,
+      "elevation_m": 33,
+      "load": 4.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-02-24",
+      "activities": 2,
+      "minutes": 74,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 72.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "activities": 4,
+      "minutes": 107,
+      "distance_km": 8.4,
+      "elevation_m": 49,
+      "load": 68.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 2,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "activities": 1,
+      "minutes": 24,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 2.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 20,
+      "load": 113.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "activities": 3,
+      "minutes": 64,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 46.0,
+      "level": 2,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-01",
+      "activities": 1,
+      "minutes": 34,
+      "distance_km": 7.5,
+      "elevation_m": 32,
+      "load": 100.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-02",
+      "activities": 2,
+      "minutes": 71,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 62.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-04",
+      "activities": 1,
+      "minutes": 66,
+      "distance_km": 4.2,
+      "elevation_m": 83,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-03-05",
+      "activities": 2,
+      "minutes": 91,
+      "distance_km": 7.0,
+      "elevation_m": 0,
+      "load": 108.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "activities": 4,
+      "minutes": 123,
+      "distance_km": 9.6,
+      "elevation_m": 45,
+      "load": 113.0,
+      "level": 4,
+      "types": {
+        "Cycling": 1,
+        "Hiking & Walking": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-07",
+      "activities": 1,
+      "minutes": 53,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-08",
+      "activities": 2,
+      "minutes": 57,
+      "distance_km": 7.0,
+      "elevation_m": 19,
+      "load": 146.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-09",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 24,
+      "load": 102.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-10",
+      "activities": 2,
+      "minutes": 108,
+      "distance_km": 7.0,
+      "elevation_m": 15,
+      "load": 159.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-11",
+      "activities": 2,
+      "minutes": 37,
+      "distance_km": 7.0,
+      "elevation_m": 21,
+      "load": 40.0,
+      "level": 2,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 70.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "activities": 2,
+      "minutes": 64,
+      "distance_km": 4.3,
+      "elevation_m": 0,
+      "load": 32.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 37.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "activities": 2,
+      "minutes": 102,
+      "distance_km": 11.7,
+      "elevation_m": 99,
+      "load": 148.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-17",
+      "activities": 1,
+      "minutes": 54,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-18",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 7.0,
+      "elevation_m": 15,
+      "load": 162.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-19",
+      "activities": 3,
+      "minutes": 85,
+      "distance_km": 8.4,
+      "elevation_m": 23,
+      "load": 163.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-21",
+      "activities": 2,
+      "minutes": 95,
+      "distance_km": 7.0,
+      "elevation_m": 30,
+      "load": 87.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-22",
+      "activities": 2,
+      "minutes": 64,
+      "distance_km": 8.6,
+      "elevation_m": 71,
+      "load": 46.0,
+      "level": 2,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-23",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 7.3,
+      "elevation_m": 19,
+      "load": 70.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-24",
+      "activities": 1,
+      "minutes": 33,
+      "distance_km": 7.4,
+      "elevation_m": 9,
+      "load": 101.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 14,
+      "load": 99.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-26",
+      "activities": 1,
+      "minutes": 32,
+      "distance_km": 7.2,
+      "elevation_m": 13,
+      "load": 132.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-27",
+      "activities": 1,
+      "minutes": 48,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-28",
+      "activities": 3,
+      "minutes": 73,
+      "distance_km": 6.2,
+      "elevation_m": 0,
+      "load": 22.0,
+      "level": 1,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-03-30",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.1,
+      "elevation_m": 20,
+      "load": 39.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-03-31",
+      "activities": 1,
+      "minutes": 42,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-01",
+      "activities": 2,
+      "minutes": 74,
+      "distance_km": 7.1,
+      "elevation_m": 15,
+      "load": 140.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-02",
+      "activities": 2,
+      "minutes": 75,
+      "distance_km": 7.1,
+      "elevation_m": 12,
+      "load": 56.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "activities": 2,
+      "minutes": 78,
+      "distance_km": 7.3,
+      "elevation_m": 19,
+      "load": 138.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-04",
+      "activities": 1,
+      "minutes": 34,
+      "distance_km": 7.1,
+      "elevation_m": 16,
+      "load": 124.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-05",
+      "activities": 1,
+      "minutes": 26,
+      "distance_km": 5.3,
+      "elevation_m": 14,
+      "load": 110.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "activities": 1,
+      "minutes": 33,
+      "distance_km": 7.1,
+      "elevation_m": 26,
+      "load": 120.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-07",
+      "activities": 2,
+      "minutes": 67,
+      "distance_km": 5.3,
+      "elevation_m": 11,
+      "load": 110.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-09",
+      "activities": 1,
+      "minutes": 47,
+      "distance_km": 3.3,
+      "elevation_m": 10,
+      "load": 4.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "activities": 2,
+      "minutes": 80,
+      "distance_km": 7.1,
+      "elevation_m": 31,
+      "load": 90.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "activities": 1,
+      "minutes": 34,
+      "distance_km": 7.0,
+      "elevation_m": 21,
+      "load": 102.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "activities": 2,
+      "minutes": 79,
+      "distance_km": 5.3,
+      "elevation_m": 21,
+      "load": 68.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-13",
+      "activities": 2,
+      "minutes": 72,
+      "distance_km": 5.3,
+      "elevation_m": 14,
+      "load": 105.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 37.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 7.3,
+      "elevation_m": 9,
+      "load": 137.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "activities": 1,
+      "minutes": 54,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.2,
+      "elevation_m": 5,
+      "load": 72.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-18",
+      "activities": 4,
+      "minutes": 78,
+      "distance_km": 9.9,
+      "elevation_m": 15,
+      "load": 111.0,
+      "level": 4,
+      "types": {
+        "Cycling": 2,
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "activities": 2,
+      "minutes": 52,
+      "distance_km": 3.4,
+      "elevation_m": 14,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-20",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 7.0,
+      "elevation_m": 13,
+      "load": 144.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-21",
+      "activities": 2,
+      "minutes": 84,
+      "distance_km": 7.0,
+      "elevation_m": 13,
+      "load": 158.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-22",
+      "activities": 1,
+      "minutes": 26,
+      "distance_km": 5.0,
+      "elevation_m": 13,
+      "load": 55.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-23",
+      "activities": 1,
+      "minutes": 42,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "activities": 2,
+      "minutes": 75,
+      "distance_km": 7.3,
+      "elevation_m": 19,
+      "load": 103.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-25",
+      "activities": 2,
+      "minutes": 66,
+      "distance_km": 5.3,
+      "elevation_m": 4,
+      "load": 42.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 7.4,
+      "elevation_m": 35,
+      "load": 97.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "activities": 1,
+      "minutes": 20,
+      "distance_km": 3.8,
+      "elevation_m": 9,
+      "load": 76.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "activities": 1,
+      "minutes": 35,
+      "distance_km": 7.0,
+      "elevation_m": 18,
+      "load": 120.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-04-30",
+      "activities": 2,
+      "minutes": 86,
+      "distance_km": 12.4,
+      "elevation_m": 58,
+      "load": 152.0,
+      "level": 4,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-04",
+      "activities": 2,
+      "minutes": 79,
+      "distance_km": 7.1,
+      "elevation_m": 21,
+      "load": 61.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-05",
+      "activities": 3,
+      "minutes": 54,
+      "distance_km": 12.8,
+      "elevation_m": 38,
+      "load": 55.3,
+      "level": 3,
+      "types": {
+        "Cycling": 2,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-06",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.3,
+      "elevation_m": 18,
+      "load": 31.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-07",
+      "activities": 2,
+      "minutes": 69,
+      "distance_km": 5.3,
+      "elevation_m": 15,
+      "load": 120.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-08",
+      "activities": 1,
+      "minutes": 29,
+      "distance_km": 5.3,
+      "elevation_m": 12,
+      "load": 73.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-09",
+      "activities": 2,
+      "minutes": 65,
+      "distance_km": 3.7,
+      "elevation_m": 8,
+      "load": 80.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-11",
+      "activities": 2,
+      "minutes": 89,
+      "distance_km": 5.3,
+      "elevation_m": 25,
+      "load": 13.0,
+      "level": 1,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-12",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 7.0,
+      "elevation_m": 16,
+      "load": 26.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-13",
+      "activities": 1,
+      "minutes": 24,
+      "distance_km": 4.3,
+      "elevation_m": 8,
+      "load": 17.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-14",
+      "activities": 2,
+      "minutes": 80,
+      "distance_km": 5.3,
+      "elevation_m": 15,
+      "load": 84.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-15",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 4.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-16",
+      "activities": 2,
+      "minutes": 68,
+      "distance_km": 5.0,
+      "elevation_m": 0,
+      "load": 80.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-18",
+      "activities": 2,
+      "minutes": 92,
+      "distance_km": 7.2,
+      "elevation_m": 10,
+      "load": 92.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-19",
+      "activities": 1,
+      "minutes": 45,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-20",
+      "activities": 2,
+      "minutes": 84,
+      "distance_km": 7.1,
+      "elevation_m": 25,
+      "load": 159.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-21",
+      "activities": 2,
+      "minutes": 71,
+      "distance_km": 5.0,
+      "elevation_m": 7,
+      "load": 41.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-22",
+      "activities": 1,
+      "minutes": 40,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-23",
+      "activities": 2,
+      "minutes": 111,
+      "distance_km": 11.0,
+      "elevation_m": 119,
+      "load": 42.0,
+      "level": 2,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "activities": 1,
+      "minutes": 26,
+      "distance_km": 5.0,
+      "elevation_m": 11,
+      "load": 40.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-25",
+      "activities": 2,
+      "minutes": 80,
+      "distance_km": 5.3,
+      "elevation_m": 12,
+      "load": 59.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "activities": 1,
+      "minutes": 28,
+      "distance_km": 5.0,
+      "elevation_m": 15,
+      "load": 35.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-27",
+      "activities": 2,
+      "minutes": 75,
+      "distance_km": 5.1,
+      "elevation_m": 19,
+      "load": 28.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-05-30",
+      "activities": 1,
+      "minutes": 27,
+      "distance_km": 5.0,
+      "elevation_m": 55,
+      "load": 19.0,
+      "level": 1,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-05-31",
+      "activities": 1,
+      "minutes": 58,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-01",
+      "activities": 2,
+      "minutes": 55,
+      "distance_km": 0.8,
+      "elevation_m": 4,
+      "load": 12.6,
+      "level": 1,
+      "types": {
+        "Cycling": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "activities": 2,
+      "minutes": 85,
+      "distance_km": 5.1,
+      "elevation_m": 21,
+      "load": 26.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "activities": 2,
+      "minutes": 36,
+      "distance_km": 7.1,
+      "elevation_m": 20,
+      "load": 86.0,
+      "level": 4,
+      "types": {
+        "Running": 2
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "activities": 2,
+      "minutes": 86,
+      "distance_km": 5.3,
+      "elevation_m": 2,
+      "load": 97.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "activities": 2,
+      "minutes": 73,
+      "distance_km": 5.0,
+      "elevation_m": 26,
+      "load": 114.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 7.5,
+      "elevation_m": 17,
+      "load": 78.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "activities": 2,
+      "minutes": 67,
+      "distance_km": 5.1,
+      "elevation_m": 12,
+      "load": 24.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "activities": 2,
+      "minutes": 82,
+      "distance_km": 5.1,
+      "elevation_m": 10,
+      "load": 51.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 5.0,
+      "elevation_m": 11,
+      "load": 105.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "activities": 1,
+      "minutes": 58,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "activities": 2,
+      "minutes": 40,
+      "distance_km": 9.5,
+      "elevation_m": 36,
+      "load": 70.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "activities": 1,
+      "minutes": 27,
+      "distance_km": 5.0,
+      "elevation_m": 13,
+      "load": 106.0,
+      "level": 4,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "activities": 1,
+      "minutes": 28,
+      "distance_km": 5.2,
+      "elevation_m": 21,
+      "load": 61.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "activities": 1,
+      "minutes": 42,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "activities": 2,
+      "minutes": 68,
+      "distance_km": 5.0,
+      "elevation_m": 11,
+      "load": 59.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "activities": 2,
+      "minutes": 72,
+      "distance_km": 5.3,
+      "elevation_m": 16,
+      "load": 55.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "activities": 2,
+      "minutes": 66,
+      "distance_km": 5.3,
+      "elevation_m": 0,
+      "load": 58.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "activities": 2,
+      "minutes": 89,
+      "distance_km": 9.1,
+      "elevation_m": 16,
+      "load": 59.0,
+      "level": 3,
+      "types": {
+        "Hiking & Walking": 1,
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "activities": 2,
+      "minutes": 69,
+      "distance_km": 3.7,
+      "elevation_m": 15,
+      "load": 27.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "activities": 1,
+      "minutes": 38,
+      "distance_km": 7.0,
+      "elevation_m": 17,
+      "load": 38.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "activities": 2,
+      "minutes": 73,
+      "distance_km": 5.2,
+      "elevation_m": 51,
+      "load": 27.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "activities": 2,
+      "minutes": 93,
+      "distance_km": 5.1,
+      "elevation_m": 11,
+      "load": 90.0,
+      "level": 4,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "activities": 2,
+      "minutes": 71,
+      "distance_km": 5.0,
+      "elevation_m": 15,
+      "load": 26.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "activities": 1,
+      "minutes": 27,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 3.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "activities": 3,
+      "minutes": 78,
+      "distance_km": 5.8,
+      "elevation_m": 0,
+      "load": 28.1,
+      "level": 2,
+      "types": {
+        "Running": 2,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "activities": 1,
+      "minutes": 27,
+      "distance_km": 4.9,
+      "elevation_m": 11,
+      "load": 75.0,
+      "level": 3,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-07-01",
+      "activities": 2,
+      "minutes": 77,
+      "distance_km": 5.3,
+      "elevation_m": 22,
+      "load": 30.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-02",
+      "activities": 2,
+      "minutes": 73,
+      "distance_km": 5.0,
+      "elevation_m": 16,
+      "load": 21.0,
+      "level": 1,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-04",
+      "activities": 2,
+      "minutes": 60,
+      "distance_km": 1.0,
+      "elevation_m": 52,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Hiking & Walking": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-05",
+      "activities": 1,
+      "minutes": 48,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-08",
+      "activities": 2,
+      "minutes": 88,
+      "distance_km": 5.0,
+      "elevation_m": 15,
+      "load": 33.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-09",
+      "activities": 2,
+      "minutes": 77,
+      "distance_km": 5.1,
+      "elevation_m": 14,
+      "load": 44.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-11",
+      "activities": 2,
+      "minutes": 81,
+      "distance_km": 6.3,
+      "elevation_m": 0,
+      "load": 74.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-12",
+      "activities": 2,
+      "minutes": 76,
+      "distance_km": 7.0,
+      "elevation_m": 16,
+      "load": 39.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-13",
+      "activities": 2,
+      "minutes": 70,
+      "distance_km": 3.8,
+      "elevation_m": 7,
+      "load": 31.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-14",
+      "activities": 2,
+      "minutes": 82,
+      "distance_km": 5.2,
+      "elevation_m": 18,
+      "load": 30.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-15",
+      "activities": 2,
+      "minutes": 93,
+      "distance_km": 7.7,
+      "elevation_m": 18,
+      "load": 48.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-16",
+      "activities": 2,
+      "minutes": 75,
+      "distance_km": 5.4,
+      "elevation_m": 16,
+      "load": 31.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-17",
+      "activities": 1,
+      "minutes": 46,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-07-18",
+      "activities": 1,
+      "minutes": 37,
+      "distance_km": 7.0,
+      "elevation_m": 18,
+      "load": 34.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-07-19",
+      "activities": 1,
+      "minutes": 29,
+      "distance_km": 5.3,
+      "elevation_m": 31,
+      "load": 25.0,
+      "level": 2,
+      "types": {
+        "Running": 1
+      }
+    },
+    {
+      "date": "2026-07-20",
+      "activities": 1,
+      "minutes": 51,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 5.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    }
+  ]
+}
