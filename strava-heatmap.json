@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-21T14:06:33+00:00",
+  "generated_at": "2026-07-21T14:16:30+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
@@ -13,7 +13,13 @@
     "activities": 572,
     "hours": 358.8,
     "distance_km": 1864.6,
-    "elevation_m": 5279
+    "elevation_m": 5279,
+    "activity_types": {
+      "Cycling": 19,
+      "Hiking & Walking": 50,
+      "Running": 290,
+      "Strength": 213
+    }
   },
   "days": [
     {
