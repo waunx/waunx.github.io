@@ -43,8 +43,6 @@ My research asks a central question: **how can intelligent systems learn to reas
 
 Together, these threads explore how limited resources and hard rules can become **design signals for better intelligence**.
 
-Across these directions, I have published first-author work at NeurIPS, ICML, and ICLR, as well as in journals such as IEEE Transactions on Power Systems. <a href='https://scholar.google.com/citations?user=NhsHZZwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations" alt="Google Scholar citations"></a>
-
 Beyond research, I am passionate about fitness and enjoy running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
 {% include strava-heatmap.html %}
