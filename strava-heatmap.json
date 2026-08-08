@@ -1,40 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-07T03:20:38+00:00",
+  "generated_at": "2026-08-08T02:25:14+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-08-02",
-    "end": "2026-08-07"
+    "start": "2025-08-03",
+    "end": "2026-08-08"
   },
   "summary": {
     "active_days": 327,
     "activities": 561,
-    "hours": 354.0,
-    "distance_km": 1821.1,
-    "elevation_m": 5195,
+    "hours": 353.8,
+    "distance_km": 1817.5,
+    "elevation_m": 5188,
     "activity_types": {
       "Cycling": 18,
-      "Hiking & Walking": 49,
-      "Running": 286,
-      "Strength": 208
+      "Hiking & Walking": 48,
+      "Running": 285,
+      "StairStepper": 1,
+      "Strength": 209
     }
   },
   "days": [
-    {
-      "date": "2025-08-02",
-      "activities": 2,
-      "minutes": 78,
-      "distance_km": 3.6,
-      "elevation_m": 7,
-      "load": 15.0,
-      "level": 1,
-      "types": {
-        "Hiking & Walking": 1,
-        "Running": 1
-      }
-    },
     {
       "date": "2025-08-03",
       "activities": 1,
@@ -433,7 +421,7 @@
       "distance_km": 7.1,
       "elevation_m": 18,
       "load": 22.0,
-      "level": 2,
+      "level": 1,
       "types": {
         "Running": 1
       }
@@ -469,7 +457,7 @@
       "distance_km": 8.9,
       "elevation_m": 75,
       "load": 22.0,
-      "level": 2,
+      "level": 1,
       "types": {
         "Hiking & Walking": 1,
         "Running": 1
@@ -2711,7 +2699,7 @@
       "distance_km": 6.2,
       "elevation_m": 0,
       "load": 22.0,
-      "level": 2,
+      "level": 1,
       "types": {
         "Running": 2,
         "Strength": 1
@@ -4138,6 +4126,19 @@
       "load": 4.0,
       "level": 1,
       "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "activities": 2,
+      "minutes": 67,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 40.0,
+      "level": 2,
+      "types": {
+        "StairStepper": 1,
         "Strength": 1
       }
     }
