@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-09T02:32:27+00:00",
+  "generated_at": "2026-08-10T02:38:25+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-08-04",
-    "end": "2026-08-09"
+    "start": "2025-08-05",
+    "end": "2026-08-10"
   },
   "summary": {
     "active_days": 327,
     "activities": 561,
-    "hours": 353.9,
-    "distance_km": 1817.6,
+    "hours": 354.0,
+    "distance_km": 1817.3,
     "elevation_m": 5183,
     "activity_types": {
       "Cycling": 18,
@@ -23,19 +23,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-08-04",
-      "activities": 2,
-      "minutes": 79,
-      "distance_km": 7.4,
-      "elevation_m": 15,
-      "load": 64.0,
-      "level": 3,
-      "types": {
-        "Running": 1,
-        "Strength": 1
-      }
-    },
     {
       "date": "2025-08-05",
       "activities": 2,
@@ -471,7 +458,7 @@
       "distance_km": 8.4,
       "elevation_m": 5,
       "load": 48.0,
-      "level": 2,
+      "level": 3,
       "types": {
         "Cycling": 1,
         "Running": 1,
@@ -1316,7 +1303,7 @@
       "distance_km": 7.5,
       "elevation_m": 0,
       "load": 48.0,
-      "level": 2,
+      "level": 3,
       "types": {
         "Running": 2,
         "Strength": 1
@@ -2293,7 +2280,7 @@
       "distance_km": 6.8,
       "elevation_m": 60,
       "load": 48.0,
-      "level": 2,
+      "level": 3,
       "types": {
         "Hiking & Walking": 2,
         "Running": 1,
@@ -3851,7 +3838,7 @@
       "distance_km": 7.7,
       "elevation_m": 18,
       "load": 48.0,
-      "level": 2,
+      "level": 3,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -4140,6 +4127,19 @@
       "level": 2,
       "types": {
         "Running": 1
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "activities": 2,
+      "minutes": 89,
+      "distance_km": 7.1,
+      "elevation_m": 15,
+      "load": 34.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
       }
     }
   ]
