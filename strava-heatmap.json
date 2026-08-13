@@ -1,40 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-12T03:00:06+00:00",
+  "generated_at": "2026-08-13T03:02:53+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-08-07",
-    "end": "2026-08-12"
+    "start": "2025-08-08",
+    "end": "2026-08-13"
   },
   "summary": {
     "active_days": 327,
-    "activities": 561,
-    "hours": 353.9,
-    "distance_km": 1811.5,
-    "elevation_m": 5180,
+    "activities": 562,
+    "hours": 354.3,
+    "distance_km": 1804.4,
+    "elevation_m": 5164,
     "activity_types": {
       "Cycling": 18,
       "Hiking & Walking": 48,
-      "Running": 285,
-      "StairStepper": 1,
-      "Strength": 209
+      "Running": 284,
+      "StairStepper": 2,
+      "Strength": 210
     }
   },
   "days": [
-    {
-      "date": "2025-08-07",
-      "activities": 1,
-      "minutes": 37,
-      "distance_km": 7.1,
-      "elevation_m": 16,
-      "load": 44.0,
-      "level": 2,
-      "types": {
-        "Running": 1
-      }
-    },
     {
       "date": "2025-08-08",
       "activities": 5,
@@ -4139,6 +4127,19 @@
       "level": 1,
       "types": {
         "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "activities": 2,
+      "minutes": 60,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 22.0,
+      "level": 2,
+      "types": {
+        "StairStepper": 1,
         "Strength": 1
       }
     }
