@@ -1,19 +1,19 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-31T05:46:22+00:00",
+  "generated_at": "2026-09-01T05:19:27+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-08-26",
-    "end": "2026-08-31"
+    "start": "2025-08-27",
+    "end": "2026-09-01"
   },
   "summary": {
     "active_days": 327,
     "activities": 561,
-    "hours": 353.8,
-    "distance_km": 1764.6,
-    "elevation_m": 5064,
+    "hours": 353.7,
+    "distance_km": 1760.9,
+    "elevation_m": 5071,
     "activity_types": {
       "Cycling": 18,
       "Hiking & Walking": 47,
@@ -23,19 +23,6 @@
     }
   },
   "days": [
-    {
-      "date": "2025-08-26",
-      "activities": 2,
-      "minutes": 77,
-      "distance_km": 7.5,
-      "elevation_m": 0,
-      "load": 54.0,
-      "level": 3,
-      "types": {
-        "Running": 1,
-        "Strength": 1
-      }
-    },
     {
       "date": "2025-08-27",
       "activities": 3,
@@ -1636,7 +1623,7 @@
       "distance_km": 5.3,
       "elevation_m": 0,
       "load": 45.0,
-      "level": 2,
+      "level": 3,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -4143,6 +4130,19 @@
       "level": 2,
       "types": {
         "Running": 1
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "activities": 2,
+      "minutes": 67,
+      "distance_km": 3.7,
+      "elevation_m": 7,
+      "load": 33.0,
+      "level": 2,
+      "types": {
+        "Running": 1,
+        "Strength": 1
       }
     }
   ]
