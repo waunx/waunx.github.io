@@ -1,41 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-07T04:54:30+00:00",
+  "generated_at": "2026-09-08T04:49:57+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-09-02",
-    "end": "2026-09-07"
+    "start": "2025-09-03",
+    "end": "2026-09-08"
   },
   "summary": {
     "active_days": 327,
-    "activities": 562,
-    "hours": 352.4,
-    "distance_km": 1747.5,
+    "activities": 561,
+    "hours": 351.9,
+    "distance_km": 1740.4,
     "elevation_m": 5052,
     "activity_types": {
       "Cycling": 18,
       "Hiking & Walking": 48,
-      "Running": 282,
+      "Running": 281,
       "StairStepper": 3,
       "Strength": 211
     }
   },
   "days": [
-    {
-      "date": "2025-09-02",
-      "activities": 2,
-      "minutes": 77,
-      "distance_km": 7.1,
-      "elevation_m": 0,
-      "load": 42.0,
-      "level": 2,
-      "types": {
-        "Running": 1,
-        "Strength": 1
-      }
-    },
     {
       "date": "2025-09-03",
       "activities": 3,
@@ -321,7 +308,7 @@
       "distance_km": 5.3,
       "elevation_m": 18,
       "load": 21.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1
       }
@@ -1296,7 +1283,7 @@
       "distance_km": 3.0,
       "elevation_m": 0,
       "load": 21.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -3383,7 +3370,7 @@
       "distance_km": 5.0,
       "elevation_m": 16,
       "load": 21.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -4144,6 +4131,18 @@
       "types": {
         "Hiking & Walking": 1,
         "Running": 1,
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-09-07",
+      "activities": 1,
+      "minutes": 45,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 8.0,
+      "level": 1,
+      "types": {
         "Strength": 1
       }
     }
