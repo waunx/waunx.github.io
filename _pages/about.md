@@ -108,7 +108,18 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 </div>
 </div>
 
-	
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522)
+
+**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
+
+- Agents Co-Evolution (ACE) is a synergistic framework between LLMs and RL agents for large-scale decision-making scenarios.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ProOPF_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,18 +128,6 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun
 
 - ProOPF introduces a 12K-instance dataset and a 121-case expert benchmark for evaluating and improving LLMs on professional-grade optimal power flow modeling from natural language.
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/ACE-Motivation.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Think Twice, Act Once: A Co-Evolution Framework of LLM and RL for Large-Scale Decision Making](https://arxiv.org/pdf/2506.02522)
-
-**Xu Wan**, Wenyue Xu, Chao Yang, Mingyang Sun
-
-- Agents Co-Evolution (ACE) is a synergistic framework between LLMs and RL agents for large-scale decision-making scenarios. 
 </div>
 </div>
 
