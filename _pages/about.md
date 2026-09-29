@@ -158,7 +158,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 ## Full Publications
 
-\* denotes co-first authors, \# denotes corresponding author.
+\* denotes co-first authors; \# and † denote corresponding authors.
 
 ### Under Review
 
@@ -169,6 +169,8 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 ### 2026
 <ul>
+  <li>Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy, Jiashun Liu*, Runze Liu*, <strong>Xu Wan*</strong>, Jing Liang*, Hongyao Tang, Ling Pan†, <strong>NeurIPS 2026</strong></li>
+
   <li><a href="https://arxiv.org/abs/2606.03092">The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs</a>, <strong>Xu Wan*</strong>, SpeedZhu*, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun,<strong>ICML 2026</strong> <a href="https://github.com/waunx/CLEAR">[Code]</a> </li>
 
   <li><a href="https://arxiv.org/abs/2506.18237">ProOPF: Benchmarking and Improving LLMs for Professional-Grade Power Systems Optimization Modeling</a>, Chao Shen*, Zihan Guo*, <strong>Xu Wan*</strong>, Zhenghao Yang, Yifan Zhang, Wengi Huang, Jie Song, Zongyan Zhang, Mingyang Sun, <strong>ICML 2026</strong> <a href="https://github.com/shenchao188/ProOPF-Benchamrk-Dataset">[Code]</a> </li>
