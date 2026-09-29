@@ -55,6 +55,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 <div class="news-list" markdown="1">
 
+- ***2026.09***: &nbsp;🎉🎉 One paper about training-inference mismatch in LLMs got accepted at **NeurIPS 2026** (co-first author)!!
 - *2026.05*: &nbsp;🎉🎉 Three papers about LLM Token Allocation / LLM for Optimization / T2I RL post-train got accepted at **ICML 2026**!
 - *2026.03*: &nbsp;🎉🎉 One paper about Length Penalty of LLM got accepted at **ACL 2026**!
 - *2026.01*: &nbsp;🎉🎉 One paper about Off-policy LLM-RL post-train got accepted at **ICLR 2026** (first author)!
@@ -101,7 +102,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 [AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237) <a href="https://github.com/waunx/AdapThink">[Code]</a>
 
-Wenyue Xu*, **Xu Wan*(co-first author)**, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
+**Xu Wan*(co-first author)**, Wenyue Xu*, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
 
 - AdapThink is an adaptive length penalty method for efficient thinking of reasoning language models.
 </div>
@@ -174,7 +175,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
   <li><a href="https://arxiv.org/abs/2510.21583">Principled RL for Flow Matching Emerges From the Chunk-level Policy Optimization</a>, Yifu Luo, Haoyuan Sun, Xinhao Hu, <strong>Xu Wan</strong>, et.al, <strong>ICML 2026</strong> <a href="https://github.com/xingzhejun/GCPO">[Code]</a> </li>
 
-  <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, Wenyue Xu, <strong>Xu Wan</strong>, Wei Wang,  Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun, <strong>ACL 2026 (Findings)</strong> <a href="https://github.com/waunx/AdapThink">[Code]</a> </li>
+  <li><a href="https://arxiv.org/abs/2506.18237">AdapThink: Adaptive Thinking Preferences for Reasoning Language Model</a>, <strong>Xu Wan</strong>, Wenyue Xu, Wei Wang,  Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun, <strong>ACL 2026 (Findings)</strong> <a href="https://github.com/waunx/AdapThink">[Code]</a> </li>
 
    <li><a href="https://arxiv.org/abs/2602.20722"> Buffer Matters, Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning</a>, <strong>Xu Wan</strong>, Yansheng Wang, Wenqi Huang, Mingyang Sun, <strong> ICLR 2026</strong> <a href="https://github.com/waunx/BAPO_ICLR">[Code]</a> </li>
 </ul>
