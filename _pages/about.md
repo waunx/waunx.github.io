@@ -102,7 +102,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 [AdapThink: Adaptive Thinking Preferences for Reasoning Language Model](https://arxiv.org/abs/2506.18237) <a href="https://github.com/waunx/AdapThink">[Code]</a>
 
-**Xu Wan*(co-first author)**, Wenyue Xu*, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
+**Xu Wan\*(co-first author)**, Wenyue Xu\*, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
 
 - AdapThink is an adaptive length penalty method for efficient thinking of reasoning language models.
 </div>
