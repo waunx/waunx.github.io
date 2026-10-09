@@ -1,40 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08T06:18:01+00:00",
+  "generated_at": "2026-10-09T06:20:09+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-10-03",
-    "end": "2026-10-08"
+    "start": "2025-10-04",
+    "end": "2026-10-09"
   },
   "summary": {
     "active_days": 328,
-    "activities": 566,
-    "hours": 349.6,
-    "distance_km": 1665.0,
-    "elevation_m": 4759,
+    "activities": 567,
+    "hours": 350.4,
+    "distance_km": 1665.6,
+    "elevation_m": 4747,
     "activity_types": {
       "Cycling": 13,
       "Hiking & Walking": 51,
       "Running": 285,
       "StairStepper": 3,
-      "Strength": 214
+      "Strength": 215
     }
   },
   "days": [
-    {
-      "date": "2025-10-03",
-      "activities": 1,
-      "minutes": 18,
-      "distance_km": 3.2,
-      "elevation_m": 22,
-      "load": 6.0,
-      "level": 1,
-      "types": {
-        "Running": 1
-      }
-    },
     {
       "date": "2025-10-04",
       "activities": 1,
@@ -599,7 +587,7 @@
       "distance_km": 7.5,
       "elevation_m": 0,
       "load": 48.0,
-      "level": 3,
+      "level": 2,
       "types": {
         "Running": 2,
         "Strength": 1
@@ -1576,7 +1564,7 @@
       "distance_km": 6.8,
       "elevation_m": 60,
       "load": 48.0,
-      "level": 3,
+      "level": 2,
       "types": {
         "Hiking & Walking": 2,
         "Running": 1,
@@ -3134,7 +3122,7 @@
       "distance_km": 7.7,
       "elevation_m": 18,
       "load": 48.0,
-      "level": 3,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -4161,6 +4149,19 @@
       "types": {
         "Hiking & Walking": 1,
         "Running": 1
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "activities": 2,
+      "minutes": 64,
+      "distance_km": 3.8,
+      "elevation_m": 10,
+      "load": 73.0,
+      "level": 3,
+      "types": {
+        "Running": 1,
+        "Strength": 1
       }
     }
   ]
