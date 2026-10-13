@@ -1140,3 +1140,28 @@ strong {
         animation-iteration-count: 1 !important;
     }
 }
+
+/* Research interests: three separate cards. */
+.constraint-map {
+    gap: 0.8rem;
+    overflow: visible;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+}
+
+.constraint-map .constraint-map__item,
+.constraint-map .constraint-map__item:last-child {
+    border: 1px solid rgba(1, 47, 99, 0.11);
+    border-radius: 14px;
+    box-shadow: 0 5px 16px rgba(1, 47, 99, 0.04);
+}
+
+.constraint-map .constraint-map__item h3 {
+    margin-top: 0;
+}
+
+.constraint-map .constraint-map__item > p:last-child {
+    margin-bottom: 0;
+}

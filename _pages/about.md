@@ -23,25 +23,15 @@ redirect_from:
 
 <div class="intro-panel" markdown="1">
 
-Hi, I am **Xu Wan (万旭)**. I am currently a researcher in the ByteDance Seed Team. I received my Ph.D. from the College of Control Science and Engineering at [Zhejiang University](https://www.zju.edu.cn/) in June 2026. I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University, advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), Dr. Speed Zhu, [Dr. Sheng Chen](https://scholar.google.com/citations?user=i1lEbzQAAAAJ&hl=en), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
+Hi, I am **Xu Wan (万旭)**. I am currently a researcher in the ByteDance Seed Team. I received my Ph.D. at [Zhejiang University](https://www.zju.edu.cn/) in June 2026 advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), Dr. Speed Zhu, [Dr. Sheng Chen](https://scholar.google.com/citations?user=i1lEbzQAAAAJ&hl=en), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
 
 <div class="opportunity-callout">
   I am actively seeking <span class="primary-gradient-text">academic collaborations</span>. Please feel free to <a class="primary-gradient-text opportunity-callout__email" href="mailto:{{ site.author.email }}">reach out via email</a>.
 </div>
 
-<div class="research-vision" markdown="1">
-
-<span class="research-kicker">Research vision</span>
-
-## Learning in Constraint Spaces
-
-My research asks a central question: **how can intelligent systems learn to reason and act when computation, feedback, and physical rules are limited?** I view constraints not merely as obstacles, but as useful structure for building intelligence that is more efficient, reliable, and deployable.
-
-</div>
+<p id="research-interests">My research interests include:</p>
 
 {% include research-constraint-map.html %}
-
-Together, these threads explore how limited resources and hard rules can become **design signals for better intelligence**.
 
 Beyond research, I am passionate about fitness and enjoy running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris). I am also enthusiastic about trail running and hiking.
 
@@ -72,6 +62,17 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 <h1 class="section-title"><i class="fas fa-book-open" aria-hidden="true"></i> Publications</h1>
 
 ## Spotlight Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/LSD-results.png' alt="LSD reduces response-length growth and the length-scaling tax on easy queries compared with RL." width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Mitigating the Length-Scaling Tax with Online Distillation](https://arxiv.org/abs/2609.38854)
+
+**Xu Wan**, Wenyue Xu, Shengjie Zhao, Mingyang Sun
+
+- Length Self-Distillation (LSD) reduces unnecessary response-length growth on easy queries during language model RL post-training.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -159,16 +160,10 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 \* denotes co-first authors; \# and † denote corresponding authors.
 
-### Under Review
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, <strong>Xu Wan</strong>, Haochi Wu, Quan Kong, Ruilong Deng, Mingyang Sun, <strong>Under Review</strong></li>
-</ul>
-
-
 ### 2026
 <ul>
-  <li>Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy, Jiashun Liu*, Runze Liu*, <strong>Xu Wan*</strong>, Jing Liang*, Hongyao Tang, Ling Pan†, <strong>NeurIPS 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2609.38854">Mitigating the Length-Scaling Tax with Online Distillation</a>, <strong>Xu Wan</strong>, Wenyue Xu, Shengjie Zhao, Mingyang Sun, <strong>arXiv 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2606.08779">Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy</a>, Jiashun Liu*, Runze Liu*, <strong>Xu Wan*</strong>, Jing Liang*, Hongyao Tang, Ling Pan†, <strong>NeurIPS 2026</strong></li>
 
   <li><a href="https://arxiv.org/abs/2606.03092">The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs</a>, <strong>Xu Wan*</strong>, SpeedZhu*, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun,<strong>ICML 2026</strong> <a href="https://github.com/waunx/CLEAR">[Code]</a> </li>
 
@@ -193,6 +188,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 ### 2024
 <ul>
+  <li><a href="https://arxiv.org/abs/2410.18626">SAMG: Offline-to-Online Reinforcement Learning via State-Action-Conditional Offline Model Guidance</a>, Liyu Zhang, <strong>Xu Wan</strong>, Haochi Wu, Quan Kong, Ruilong Deng, Mingyang Sun</li>
   <li><a href="https://arxiv.org/abs/2503.01458">SrSv: Integrating Sequential Rollouts with Sequential Value Estimation for Multi-agent Reinforcement Learning</a>, <strong>Xu Wan</strong>, Wenyue Xu, Chao Yang, Mingyang Sun, <strong>AAAI 2025 (Oral)</strong> <a href="https://github.com/waunx/SrSv">[Code]</a></li>
   
   <li><a href="https://ieeexplore.ieee.org/abstract/document/10726595/">AdapSafe2: Prior-Free Safe-Certified Reinforcement Learning for Multi-Area Frequency Control</a>, <strong>Xu Wan</strong>, Mingyang Sun, <strong>IEEE Trans. Power System</strong></li>
@@ -235,18 +231,8 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 <h1 class="section-title"><i class="fas fa-users" aria-hidden="true"></i> Services</h1>
 
-<div class="service-list" markdown="1">
-
-- Reviewer for ICML 2026
-
-- Reviewer for ICLR 2026
-
-- Reviewer for NeurIPS 2025
-
-- Reviewer for TPWRS (Transactions on Power System)
-
-- Program Committee for AAAI 2026 (Main Track and AIA track)
-
+<div class="service-list">
+  <p>Reviewer for ICML 2025-2026, ICLR 2026-2027, NeurIPS 2024-2025, AAAI 2024-2026, TPWRS (Transactions on Power System)</p>
 </div>
 
 <span class='anchor' id='visitors'></span>
