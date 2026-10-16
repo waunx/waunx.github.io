@@ -220,10 +220,10 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 - *2023.10*: **China Optics Valley Scholarship (中国光谷奖学金)**, with a **RMB 10,000** scholarship
 - *2022.11*: **First Prize** in the 4th China Graduate Student Artificial Intelligence Innovation Competition (Huawei Cup), **Top 6 Nationally**, with a **RMB 30,000** cash award
 - *2022.10*: **Second Prize** in Baidu PaddlePaddle China University Computer Competition, **Top 8 Nationally**, with a **RMB 10,000** cash award
-- *2022.10*: **National Scholarship for Graduate Students**（研究生国家奖学金）
+- *2022.10*: **National Scholarship for Graduate Students（研究生国家奖学金）**
 - *2022.08*: **First Prize** in the 3rd National College Student Mathematical Modeling Competition (Huashu Cup), **Top 5% Nationally**
 - *2020.04*: **First Prize** in American Mathematical Contest in Modeling (MCM), **Top 7.4% Globally**
-- *2019.10*: **National Scholarship for Undergraduate Students**（本科生国家奖学金）
+- *2019.10*: **National Scholarship for Undergraduate Students（本科生国家奖学金）**
 
 </div>
 
