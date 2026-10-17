@@ -115,16 +115,7 @@
     setStat(card, "distance", formatNumber(summary.distance_km, 1));
     renderGrid(card, payload);
 
-    var status = card.querySelector("[data-heatmap-status]");
-    if (!status) return;
-    if (!(payload.days || []).length) {
-      status.textContent = "Waiting for the first private Strava sync.";
-      return;
-    }
-    var updated = payload.generated_at ? new Date(payload.generated_at) : null;
-    status.textContent = updated && !Number.isNaN(updated.getTime())
-      ? "Daily aggregates · updated " + updated.toLocaleDateString(undefined, { year: "numeric", month: "short", day: "numeric" })
-      : "Daily aggregates from Strava";
+
   }
 
   function fetchJson(url) {
