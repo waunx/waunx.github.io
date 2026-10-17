@@ -1156,6 +1156,14 @@ strong {
     border: 1px solid rgba(1, 47, 99, 0.11);
     border-radius: 14px;
     box-shadow: 0 5px 16px rgba(1, 47, 99, 0.04);
+    transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+
+    &:hover,
+    &:focus-within {
+        transform: translateY(-3px);
+        border-color: rgba(254, 102, 123, 0.22);
+        box-shadow: $box-shadow-hover;
+    }
 }
 
 .constraint-map .constraint-map__item h3 {
