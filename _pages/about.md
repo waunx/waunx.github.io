@@ -47,7 +47,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 - ***2026.09***: &nbsp;🎉🎉 One paper about training-inference mismatch in LLMs got accepted at **NeurIPS 2026** (co-first author)!!
 - *2026.05*: &nbsp;🎉🎉 Three papers about LLM Token Allocation / LLM for Optimization / T2I RL post-train got accepted at **ICML 2026**!
-- *2026.03*: &nbsp;🎉🎉 One paper about Length Penalty of LLM got accepted at **ACL 2026**!
+- ***2026.03***: &nbsp;🎉🎉 One paper about Length Penalty of LLM got accepted at **ACL 2026** (co-first author)!
 - *2026.01*: &nbsp;🎉🎉 One paper about Off-policy LLM-RL post-train got accepted at **ICLR 2026** (first author)!
 - *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
