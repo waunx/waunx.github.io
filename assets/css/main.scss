@@ -1161,7 +1161,7 @@ strong {
     &:hover,
     &:focus-within {
         transform: translateY(-3px);
-        border-color: rgba(254, 102, 123, 0.22);
+        border-color: rgba(254, 102, 123, 0.75);
         box-shadow: $box-shadow-hover;
     }
 }
