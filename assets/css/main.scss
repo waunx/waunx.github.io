@@ -1033,13 +1033,14 @@ strong {
 }
 
 .training-heatmap {
-    width: 739px;
+    width: 100%;
     min-width: 739px;
 }
 
 .training-heatmap__months {
     display: grid;
     grid-template-columns: repeat(53, 11px);
+    justify-content: space-between;
     gap: 3px;
     height: 17px;
     color: #7a8798;
@@ -1057,6 +1058,7 @@ strong {
     grid-auto-flow: column;
     grid-template-rows: repeat(7, 11px);
     grid-template-columns: repeat(53, 11px);
+    justify-content: space-between;
     gap: 3px;
 }
 
