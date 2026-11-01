@@ -26,7 +26,7 @@ redirect_from:
 Hi, I am **Xu Wan (万旭)**. I am currently a researcher in the ByteDance Seed Team. I received my Ph.D. at [Zhejiang University](https://www.zju.edu.cn/) in June 2026 advised by [Prof. Mingyang Sun](https://scholar.google.com/citations?user=Vq9aHxoAAAAJ&hl). I was previously a visiting student at the [IDEAL Lab](https://www.ideallab-smy.com/), Peking University. During my Ph.D., I interned at Tencent Hunyuan, ByteDance Seed, Alibaba DAMO Academy, and NetEase Fuxi AI Lab, and had the pleasure of collaborating with [Prof. Wotao Yin](https://scholar.google.com/citations?user=kpQGGFUAAAAJ&hl), [Dr. Speed Zhu](https://openreview.net/profile?id=~Speed_Zhu1), [Dr. Sheng Chen](https://scholar.google.com/citations?user=i1lEbzQAAAAJ&hl=en), [Dr. Yujing Hu](https://scholar.google.com/citations?user=IR5WY-wAAAAJ&hl), and many other outstanding researchers.
 
 <div class="opportunity-callout">
-  I am actively seeking <span class="primary-gradient-text">academic collaborations</span>. Please feel free to <a class="primary-gradient-text opportunity-callout__email" href="mailto:{{ site.author.email }}">reach out via email</a>.
+  I am actively seeking <span class="primary-gradient-text">job opportunities</span> or <span class="primary-gradient-text">academic collaborations</span>. Please feel free to <a class="primary-gradient-text opportunity-callout__email" href="mailto:{{ site.author.email }}">reach out via email</a>.
 </div>
 
 <p id="research-interests">My research interests include:</p>
@@ -232,7 +232,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 <h1 class="section-title"><i class="fas fa-users" aria-hidden="true"></i> Services</h1>
 
 <div class="service-list">
-  <p>Reviewer for ICML 2025-2026, ICLR 2026-2027, NeurIPS 2024-2025, AAAI 2024-2026, TPWRS (Transactions on Power System)</p>
+  <p>ICML 2025-2026, ICLR 2026-2027, NeurIPS 2024-2026, AAAI 2024-2026, TPWRS (Transactions on Power System)</p>
 </div>
 
 <span class='anchor' id='visitors'></span>
