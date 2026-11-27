@@ -1,41 +1,28 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-26T08:36:23+00:00",
+  "generated_at": "2026-11-27T08:47:21+00:00",
   "source": "Strava API",
   "metric": "Relative daily training load; Strava Relative Effort when available, otherwise moving time.",
   "privacy": "Daily aggregates only; no routes, coordinates, names, timestamps, or activity IDs.",
   "window": {
-    "start": "2025-11-21",
-    "end": "2026-11-26"
+    "start": "2025-11-22",
+    "end": "2026-11-27"
   },
   "summary": {
     "active_days": 336,
-    "activities": 586,
-    "hours": 352.8,
-    "distance_km": 1565.8,
+    "activities": 584,
+    "hours": 352.6,
+    "distance_km": 1560.5,
     "elevation_m": 4244,
     "activity_types": {
       "Cycling": 12,
       "Hiking & Walking": 47,
-      "Running": 287,
+      "Running": 285,
       "StairStepper": 8,
       "Strength": 232
     }
   },
   "days": [
-    {
-      "date": "2025-11-21",
-      "activities": 3,
-      "minutes": 58,
-      "distance_km": 5.3,
-      "elevation_m": 0,
-      "load": 35.0,
-      "level": 2,
-      "types": {
-        "Running": 2,
-        "Strength": 1
-      }
-    },
     {
       "date": "2025-11-22",
       "activities": 1,
@@ -447,7 +434,7 @@
       "distance_km": 3.0,
       "elevation_m": 0,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -1980,7 +1967,7 @@
       "distance_km": 7.0,
       "elevation_m": 16,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -2206,7 +2193,7 @@
       "distance_km": 5.1,
       "elevation_m": 21,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -2484,7 +2471,7 @@
       "distance_km": 5.0,
       "elevation_m": 15,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -2725,7 +2712,7 @@
       "distance_km": 4.1,
       "elevation_m": 0,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -2826,7 +2813,7 @@
       "distance_km": 4.0,
       "elevation_m": 10,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -3013,7 +3000,7 @@
       "distance_km": 5.0,
       "elevation_m": 11,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -3827,7 +3814,7 @@
       "distance_km": 3.7,
       "elevation_m": 9,
       "load": 26.0,
-      "level": 1,
+      "level": 2,
       "types": {
         "Running": 1,
         "Strength": 1
@@ -4272,6 +4259,18 @@
       "distance_km": 0.0,
       "elevation_m": 0,
       "load": 7.0,
+      "level": 1,
+      "types": {
+        "Strength": 1
+      }
+    },
+    {
+      "date": "2026-11-26",
+      "activities": 1,
+      "minutes": 41,
+      "distance_km": 0.0,
+      "elevation_m": 0,
+      "load": 6.0,
       "level": 1,
       "types": {
         "Strength": 1
