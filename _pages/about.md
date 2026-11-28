@@ -72,7 +72,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 [EA-Bench: Measuring Information and Action Efficiency under Imperfect Instructions](https://arxiv.org/html/2611.28846v1) <a href="https://github.com/waunx/EA-Bench">[Code]</a>
 
-**Xu Wan\*(co-first author)**, Wenyue Xu\*, Shenjie Zhao
+Wenyue Xu\*, **Xu Wan\*(co-first author)**, Shenjie Zhao
 
 - EA-Bench evaluates tool-call and user-interaction efficiency under missing, redundant, and conflicting instructions across 63 tasks and 232 conditions.
 </div>
@@ -176,7 +176,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 
 ### 2026
 <ul>
-  <li><a href="https://arxiv.org/html/2611.28846v1">EA-Bench: Measuring Information and Action Efficiency under Imperfect Instructions</a>, <strong>Xu Wan*</strong>, Wenyue Xu*, Shenjie Zhao, <strong>Preprint 2026</strong> <a href="https://github.com/waunx/EA-Bench">[Code]</a></li>
+  <li><a href="https://arxiv.org/html/2611.28846v1">EA-Bench: Measuring Information and Action Efficiency under Imperfect Instructions</a>, Wenyue Xu*, <strong>Xu Wan*</strong>, Shenjie Zhao, <strong>Preprint 2026</strong> <a href="https://github.com/waunx/EA-Bench">[Code]</a></li>
   <li><a href="https://arxiv.org/abs/2609.38854">Mitigating the Length-Scaling Tax with Online Distillation</a>, <strong>Xu Wan*</strong>, Wenyue Xu, Shengjie Zhao, Mingyang Sun, <strong>Preprint 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2606.08779">Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy</a>, Jiashun Liu*, Runze Liu*, <strong>Xu Wan*</strong>, Jing Liang*, Hongyao Tang, Ling Pan†, <strong>NeurIPS 2026</strong></li>
 
