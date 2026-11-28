@@ -385,13 +385,17 @@ strong {
     }
 }
 
-.primary-gradient-text {
+.primary-gradient-text,
+.news-list .primary-gradient-text strong,
+.news-list .primary-gradient-text em {
     color: $primary-color;
     font-weight: 700;
 }
 
 @supports ((background-clip: text) or (-webkit-background-clip: text)) {
-    .primary-gradient-text {
+    .primary-gradient-text,
+    .news-list .primary-gradient-text strong,
+    .news-list .primary-gradient-text em {
         background: linear-gradient(135deg, $primary-color 0%, #1a4f8a 50%, $accent-color 100%);
         background-clip: text;
         -webkit-background-clip: text;
