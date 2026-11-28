@@ -33,7 +33,7 @@ Hi, I am **Xu Wan (万旭)**. I am currently an AI researcher in the ByteDance S
 
 {% include research-constraint-map.html %}
 
-Beyond research, I am passionate about fitness and enjoy running and strength training. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris).
+Beyond research, I am passionate about fitness and enjoy running and strength training. I have maintained a regular running and fitness routine for six years. You can follow my training journey on my [Strava profile](https://www.strava.com/athletes/wan_kris).
 
 {% include strava-heatmap.html %}
 
