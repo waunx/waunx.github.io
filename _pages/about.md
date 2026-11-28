@@ -47,13 +47,13 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 - ***2026.09***: &nbsp;🎉🎉 One paper about training-inference mismatch in LLMs got accepted at **NeurIPS 2026** (co-first author)!
 - ***2026.07***: &nbsp;🎉🎉 <span class="primary-gradient-text">I joined **ByteDance Seed Robotics** as an **AI Researcher**, working on the full pipeline of robot use agents and RL post-training of VLMs for robotic manipulation tasks!</span>
-- ***2026.06***: &nbsp;🎉🎉 <span style="color:#ff6666">I received the **Sun Youxian Academician Scholarship (孙优贤院士奖学金)** (with **only 5 Ph.D. recipients university-wide** and a scholarship of **RMB 30,000**)!</span>
+- ***2026.06***: &nbsp;🎉🎉 <span class="primary-gradient-text">I received the **Sun Youxian Academician Scholarship (孙优贤院士奖学金)** (with **only 5 Ph.D. recipients university-wide** and a scholarship of **RMB 30,000**)!</span>
 - *2026.05*: &nbsp;🎉🎉 Three papers about LLM Token Allocation / LLM for Optimization / T2I RL post-train got accepted at **ICML 2026**!
 - ***2026.03***: &nbsp;🎉🎉 One paper about Length Penalty of LLM got accepted at **ACL 2026** (co-first author)!
 - *2026.01*: &nbsp;🎉🎉 One paper about Off-policy LLM-RL post-train got accepted at **ICLR 2026** (first author)!
 - ***2025.11***: &nbsp;🎉🎉 <span class="primary-gradient-text">I joined the **Tencent Hunyuan T3 team** as a **Research Intern (RI)**, working on multi-turn reinforcement learning and efficient chain-of-thought reasoning for challenging coding tasks!</span>
 - *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
-- *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
+- *2025.07*: &nbsp;🎉🎉 <span class="primary-gradient-text">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
 - ***2025.05***: &nbsp;🎉🎉 <span class="primary-gradient-text">I joined **ByteDance Seed Robotics** as a **Research Intern (RI)**, exploring general-purpose off-policy reinforcement learning for LLMs and demonstrating strong performance across mathematical, logical, and visual reasoning, as well as spatial reasoning for robot navigation!</span>
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
