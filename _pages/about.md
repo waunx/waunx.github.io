@@ -54,7 +54,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 - *2025.09*: &nbsp;🎉🎉 One paper about robust safe RL got accepted at **NeurIPS 2025** (first author)!
 - ***2025.11***: &nbsp;🎉🎉 I joined the **Tencent Hunyuan T3 team** as a **Research Intern (RI)**, working on multi-turn reinforcement learning and efficient chain-of-thought reasoning for challenging coding tasks!
 - *2025.07*: &nbsp;🎉🎉 <span style="color:#ff6666">I was supported by the **CIE-Tencent Doctoral Research Incentive Project** (with **only 23** recipients nationwide and a research fund of **100,000 RMB**)!</span>
-- ***2025.05***: &nbsp;🎉🎉 I joined **ByteDance Seed Robotics** as a **Research Intern (RI)**, exploring general-purpose off-policy reinforcement learning for LLMs across mathematical reasoning, visual reasoning, and spatial reasoning for robot navigation!
+- ***2025.05***: &nbsp;🎉🎉 I joined **ByteDance Seed Robotics** as a **Research Intern (RI)**, exploring general-purpose off-policy reinforcement learning for LLMs and demonstrating strong performance across mathematical, logical, and visual reasoning, as well as spatial reasoning for robot navigation!
 - *2025.05*: &nbsp;🎉🎉 One paper about elastic cloud service got accepted at **SIGKDD 2025** (co-first author)!
 - *2025.05*: &nbsp;🎉🎉 One paper about LLM and RL colloboratation got accepted at **ICML 2025** (first author)!
 - *2024.12*: &nbsp;🎉🎉 One paper about multi-agent RL got accepted as an <span style="color:#ff6666">**oral**</span> presentation at **AAAI 2025** (first author)!
