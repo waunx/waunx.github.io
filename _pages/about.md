@@ -85,18 +85,6 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://arxiv.org/abs/2602.20722) <a href="https://github.com/waunx/BAPO_ICLR">[Code]</a>
-
-**Xu Wan**, Yansheng Wang, Wenqi Huang, Mingyang Sun
-
-- BAPO is an off-policy RLVR framework to improve the data efficiency in large language models post-training.
-</div>
-</div>
-
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/CLEAR_motivation.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -117,6 +105,17 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 **Xu Wan\*(co-first author)**, Wenyue Xu\*, Wei Wang, Wotao Yin, Wenqi Huang, Shengjie Zhao, Mingyang Sun
 
 - AdapThink is an adaptive length penalty method for efficient thinking of reasoning language models.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/BAPO_framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Buffer Matters: Unleashing the Power of Off-Policy Reinforcement Learning in Large Language Model Reasoning](https://arxiv.org/abs/2602.20722) <a href="https://github.com/waunx/BAPO_ICLR">[Code]</a>
+
+**Xu Wan**, Yansheng Wang, Wenqi Huang, Mingyang Sun
+
+- BAPO is an off-policy RLVR framework to improve the data efficiency in large language models post-training.
 </div>
 </div>
 
