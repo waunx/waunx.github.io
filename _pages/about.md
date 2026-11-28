@@ -79,7 +79,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 [Mitigating the Length-Scaling Tax with Online Distillation](https://arxiv.org/abs/2609.38854)
 
-**Xu Wan**, Wenyue Xu, Shengjie Zhao, Mingyang Sun
+**Xu Wan\*(co-first author)**, Wenyue Xu, Shengjie Zhao, Mingyang Sun
 
 - Length Self-Distillation (LSD) reduces unnecessary response-length growth on easy queries during language model RL post-training.
 </div>
@@ -174,7 +174,7 @@ Chao Shen*, Zihan Guo*, **Xu Wan*(co-first author)**, Zhenghao Yang, Yifan Zhang
 ### 2026
 <ul>
   <li>EA-Bench: Measuring Information and Action Efficiency under Imperfect Instructions, <strong>Xu Wan*</strong>, Wenyue Xu*, Shenjie Zhao, <strong>Preprint 2026</strong> <a href="https://github.com/waunx/EA-Bench">[Code]</a></li>
-  <li><a href="https://arxiv.org/abs/2609.38854">Mitigating the Length-Scaling Tax with Online Distillation</a>, <strong>Xu Wan</strong>, Wenyue Xu, Shengjie Zhao, Mingyang Sun, <strong>Preprint 2026</strong></li>
+  <li><a href="https://arxiv.org/abs/2609.38854">Mitigating the Length-Scaling Tax with Online Distillation</a>, <strong>Xu Wan*</strong>, Wenyue Xu, Shengjie Zhao, Mingyang Sun, <strong>Preprint 2026</strong></li>
   <li><a href="https://arxiv.org/abs/2606.08779">Reformulate LLM Reinforcement Learning for Efficient Training under Black-box Discrepancy</a>, Jiashun Liu*, Runze Liu*, <strong>Xu Wan*</strong>, Jing Liang*, Hongyao Tang, Ling Pan†, <strong>NeurIPS 2026</strong></li>
 
   <li><a href="https://arxiv.org/abs/2606.03092">The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs</a>, <strong>Xu Wan*</strong>, SpeedZhu*, Jiawei Cai, Guang Chen, Ximing Huang, Wiggin Zhou, Mingyang Sun,<strong>ICML 2026</strong> <a href="https://github.com/waunx/CLEAR">[Code]</a> </li>
