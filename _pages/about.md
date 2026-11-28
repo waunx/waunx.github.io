@@ -45,7 +45,7 @@ Beyond research, I am passionate about fitness and enjoy running and strength tr
 
 <div class="news-list" markdown="1">
 
-- ***2026.07***: &nbsp;🎉🎉 I joined **ByteDance Seed Robotics** as an **AI Researcher**, working on VLM RL post-training for robotics and end-to-end research on robot use agents!
+- ***2026.07***: &nbsp;🎉🎉 I joined **ByteDance Seed Robotics** as an **AI Researcher**, working on the full pipeline of robot use agents and RL post-training of VLMs for robotic manipulation tasks!
 - ***2026.09***: &nbsp;🎉🎉 One paper about training-inference mismatch in LLMs got accepted at **NeurIPS 2026** (co-first author)!
 - ***2026.06***: &nbsp;🎉🎉 <span style="color:#ff6666">I received the **Sun Youxian Academician Scholarship (孙优贤院士奖学金)** (with **only 5 Ph.D. recipients university-wide** and a scholarship of **RMB 30,000**)!</span>
 - *2026.05*: &nbsp;🎉🎉 Three papers about LLM Token Allocation / LLM for Optimization / T2I RL post-train got accepted at **ICML 2026**!
